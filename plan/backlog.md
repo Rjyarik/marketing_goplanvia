@@ -12,7 +12,7 @@
 | W0-01 | goplanvia.com — основной домен в Lovable, редирект с yourplanvia.com | Ярослав | done | Редирект Lovable работает |
 | W0-02 | Подтвердить goplanvia.com в Search Console, Bing, Meta | Ярослав | todo | |
 | W0-03 | Репозиторий marketing_goplanvia | Ярослав | done | |
-| W0-04 | Claude GitHub App на marketing_goplanvia | Ярослав | todo | Без этого агенты не могут пушить |
+| W0-04 | Claude GitHub App на marketing_goplanvia | Ярослав | done | Push работает с 28.10 |
 | W0-05 | Проект в Claude Code, инструкции проекта | Ярослав | review | Со слов Ярослава создан; проверить инструкции из раздела 5 «Команды агентов» |
 | W0-06 | Коннекторы: n8n (MCP), BabyLoveGrowth | Ярослав | todo | |
 | W0-07 | Ники @planvia / @goplanvia в TikTok, Instagram, YouTube, Reddit, X | Ярослав | todo | |
@@ -32,7 +32,7 @@
 | W1-06 | Профили в каталогах AI-инструментов: There's An AI For That, Futurepedia, AlternativeTo, Product Hunt | outreach | todo | Тексты готовит outreach, регистрирует Ярослав |
 | W1-07 | 50 микрокреаторов ES/EN | outreach | todo | |
 | W1-08 | 2 аккаунта Reddit отвечают без ссылок | Ярослав | todo | Черновики — community-scout |
-| W1-09 | Цели аутрича: подборки «AI trip planner», «Wanderlog alternatives» | outreach | doing | Первая волна — 29 октября |
+| W1-09 | Цели аутрича: подборки «AI trip planner», «Wanderlog alternatives» | outreach | review | 25 целей в data/outreach-targets.csv; групповым подборкам писать после запуска совместных поездок |
 | W1-10 | Первые записи /travel-alerts | alerts-monitor | doing | Первая волна — 29 октября |
 
 ## Неделя 2 (9–15 ноября): продуктовая петля и ключевые страницы
@@ -41,9 +41,9 @@
 |---|---|---|---|---|
 | W2-01 | Совместная поездка работает на сайте — рубеж | developer | todo | Без неё креаторы не говорят «с друзьями» |
 | W2-02 | Открытая ссылка на план с превью и «Скопировать поездку» без регистрации | developer | todo | Превью каталожных планов уже есть (W0-09) |
-| W2-03 | Страницы P1 EN+ES: /plan/friends-trip-planner, /how-it-works, /faq, /about, /pricing, /travel-alerts | seo-researcher → writer → fact-checker | doing | Бриф хаба — 29 октября |
+| W2-03 | Страницы P1 EN+ES: /group-trip-planner (хаб), /how-it-works, /faq, /about, /pricing, /travel-alerts | seo-researcher → writer → fact-checker | doing | Бриф хаба готов. Адрес хаба — /group-trip-planner: /plan/... занят маршрутом /plan/:tripId |
 | W2-04 | Цены и часы мест для 20 городов | writer + fact-checker | todo | |
-| W2-05 | 10 страниц городов и 10 маршрутов «3 days in X with friends» (под весну–лето 2027) | writer | todo | Первые брифы — 29 октября |
+| W2-05 | 10 страниц городов и 10 маршрутов «3 days in X with friends» (под весну–лето 2027) | writer | doing | Брифы: Лиссабон (EN), Semana Santa en Oporto (ES) |
 | W2-06 | Письма 20 креаторам | outreach | todo | Каждое — после «да» Ярослава |
 
 ## Неделя 3 (16–22 ноября): контент-конвейер
@@ -75,3 +75,6 @@
 ## Идеи
 
 Сюда агенты дописывают предложения с пометкой `[предложено]`. Координатор раз в неделю решает, что взять в работу.
+
+- `[предложено]` alerts-monitor: запись /travel-alerts «Lisbon historic lifts in 2027». По RFM от 02.09.2026 Santa Justa, Glória, Bica и Lavra закрыты, Graça работает с 30.04.2026; подтвердить на carris.pt. Конкуренты (Layla, Earth Trekkers) всё ещё ставят их в маршруты. Источник — бриф `research/briefs/2026-10-29-lisbon-3-days-friends.en.md` (seo-researcher, 28.10.2026)
+- `[предложено]` seo-researcher → writer: добавить Pilot и TripProf в сравнения W3-04. У Pilot сильный лендинг /group-trip-planner (50,000+ groups, FAQ из 11 вопросов) и страницы /compare/…; TripProf делает «3 Days in <City> With Friends» на 8+ языках и подборки «best group travel planning apps 2026». Возможна страница «PlanVIA vs Pilot» (seo-researcher, 28.10.2026)

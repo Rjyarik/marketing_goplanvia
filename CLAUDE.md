@@ -45,7 +45,10 @@ PlanVIA (goplanvia.com) — AI-планировщик поездок. Сейча
 - Подпись бренда: **PlanVIA: AI Group Trip Planner**.
 - Домен: **goplanvia.com**. Старый yourplanvia.com в новых текстах не используем.
 - При первом упоминании в тексте — название плюс категория: «PlanVIA, the AI group trip planner».
-- Одна фраза о продукте (EN), дословно одинаковая везде: *PlanVIA is an AI group trip planner: plan a trip with friends in minutes, with a day-by-day itinerary, a map and real places.*
+- Одна фраза о продукте, дословно одинаковая везде:
+  - EN: *PlanVIA is an AI group trip planner: plan a trip with friends in minutes, with a day-by-day itinerary, a map and real places.*
+  - ES (черновик, ждёт утверждения Ярослава): *PlanVIA es un planificador de viajes en grupo con IA: organiza un viaje con amigos en minutos, con un itinerario día a día, un mapa y lugares reales.*
+- Адреса посадочных страниц не начинаем с `/plan/` — этот путь занят планами (`/plan/<id>`). Хаб поездок с друзьями — `/group-trip-planner`.
 
 ## Голос
 
