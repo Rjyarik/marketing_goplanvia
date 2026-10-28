@@ -19,6 +19,7 @@
 | W0-08 | Заполнить репозиторий: CLAUDE.md, роли, шаблоны, таблицы | координатор | done | |
 | W0-09 | Домен в коде, бренд-линия, превью страниц | developer → Lovable | review | Сделано в превью Lovable; нужно опубликовать и проверить ссылку /plans в Telegram |
 | W0-10 | Исправить вход через Google и Apple в Supabase | Ярослав | todo | По отчёту Lovable: Site URL = localhost, нет секрета Google, ключ Apple не принят |
+| W0-11 | Проверить, принимает ли сайт реальные оплаты Plus | Ярослав + developer | todo | В коде публичный ключ Stripe тестовый (pk_test), в roadmap Lovable «Plus payments» не завершено. Без живых оплат акция к Чёрной пятнице (W4-02) бессмысленна |
 
 ## Неделя 1 (2–8 ноября): фундамент и замер
 
@@ -29,7 +30,7 @@
 | W1-03 | Спецификация совместной поездки: ссылка-приглашение, вход друга, голосование, комментарии | координатор + Ярослав | doing | Черновик — `plan/specs/group-trip-mvp.md` |
 | W1-04 | Базовый AI-замер, 30 промптов EN/ES | analyst | blocked | Нужен коннектор n8n (OpenRouter) |
 | W1-05 | Настроить BabyLoveGrowth по разделу 9 «Стратегии» | Ярослав | todo | |
-| W1-06 | Профили в каталогах AI-инструментов: There's An AI For That, Futurepedia, AlternativeTo, Product Hunt | outreach | todo | Тексты готовит outreach, регистрирует Ярослав |
+| W1-06 | Профили в каталогах AI-инструментов: There's An AI For That, Futurepedia, AlternativeTo, Product Hunt | outreach | doing | Тексты готовит outreach, регистрирует Ярослав |
 | W1-07 | 50 микрокреаторов ES/EN | outreach | todo | |
 | W1-08 | 2 аккаунта Reddit отвечают без ссылок | Ярослав | todo | Черновики — community-scout |
 | W1-09 | Цели аутрича: подборки «AI trip planner», «Wanderlog alternatives» | outreach | review | 25 целей в data/outreach-targets.csv; групповым подборкам писать после запуска совместных поездок |
