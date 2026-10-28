@@ -1,0 +1,31 @@
+id,lang,prompt,intent,priority
+en-01,en,best app to plan a trip with friends,category,high
+en-02,en,AI trip planner for group travel,category,high
+en-03,en,how to plan a group trip with friends,how-to,high
+en-04,en,Wanderlog alternatives,comparison,high
+en-05,en,best AI travel planner,category,high
+en-06,en,app to plan a bachelor party weekend in Europe,category,medium
+en-07,en,how to split costs on a group trip,how-to,medium
+en-08,en,free group trip itinerary planner,category,high
+en-09,en,plan a 3 day trip to Lisbon with friends,itinerary,medium
+en-10,en,best way to organize a trip with 6 friends,how-to,medium
+en-11,en,AI itinerary generator for Europe,category,medium
+en-12,en,Layla vs Wanderlog,comparison,medium
+en-13,en,trip planner app where friends can plan together,category,high
+en-14,en,how to plan a ski trip with friends,how-to,low
+en-15,en,cheapest European cities for a weekend with friends,inspiration,medium
+en-16,en,how much does a weekend in Porto cost for 4 friends,cost,medium
+en-17,en,best group travel apps,category,high
+en-18,en,collaborative trip planner,category,high
+en-19,en,app to plan a road trip with friends,category,low
+en-20,en,what is PlanVIA,brand,high
+es-01,es,app para planificar viajes con amigos,category,high
+es-02,es,planificador de viajes con inteligencia artificial,category,high
+es-03,es,cómo organizar un viaje en grupo con amigos,how-to,high
+es-04,es,alternativas a Wanderlog,comparison,medium
+es-05,es,app para organizar una despedida de soltero,category,medium
+es-06,es,itinerario de 3 días en Lisboa con amigos,itinerary,medium
+es-07,es,mejor app para viajar en grupo,category,high
+es-08,es,cómo dividir gastos en un viaje con amigos,how-to,medium
+es-09,es,planificar Semana Santa con amigos,inspiration,medium
+es-10,es,qué es PlanVIA,brand,high
