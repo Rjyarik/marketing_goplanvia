@@ -17,7 +17,7 @@ checked: 2026-10-28
 **What it means for your group:**
 
 - **Trains at risk:** TGV INOUI, Ouigo, Intercités, TER and Paris-region trains could all run a reduced service (reported by the media, 22–23 October).
-- **Long weekends:** if your group planned to leave on Thursday 5 November for a Thursday-to-Sunday trip, the outbound day is the one at risk. The return on 8 November is not part of the call.
+- **Long weekends:** if your group planned to leave on Thursday 5 November for a Thursday-to-Sunday trip, the outbound day is the one at risk. So far the call covers only 5 November.
 - **Paris metro:** as of 23 October there was no RATP strike notice for 5 November (reported). The metro may run normally even if RER and Transilien trains don't.
 - **Late notice:** the full list of cancelled trains usually comes out the day before, which leaves little time to rebook six people.
 
