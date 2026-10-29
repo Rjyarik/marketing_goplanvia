@@ -2,12 +2,12 @@
 
 ```markdown
 ---
-status: действует | ожидается | завершено
+status: active | expected | ended
 starts: YYYY-MM-DD
-ends: YYYY-MM-DD или неизвестно
+ends: YYYY-MM-DD or unknown
 country: <страна>
-city: <город или «вся страна»>
-category: въезд | транспорт | закрытие | сбор | событие
+city: <city or "nationwide">
+category: entry | transport | closure | fee | event
 confirmed: official | reported, not confirmed
 source: <ссылка на первоисточник>
 checked: YYYY-MM-DD

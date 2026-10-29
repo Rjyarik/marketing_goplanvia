@@ -34,7 +34,7 @@
 | W1-07 | 50 микрокреаторов ES/EN | outreach | doing | |
 | W1-08 | 2 аккаунта Reddit отвечают без ссылок | Ярослав | todo | Первый дайджест черновиков — 29.10 |
 | W1-09 | Цели аутрича: подборки «AI trip planner», «Wanderlog alternatives» | outreach | review | 25 целей в data/outreach-targets.csv; групповым подборкам писать после запуска совместных поездок |
-| W1-10 | Первые записи /travel-alerts | alerts-monitor → fact-checker | doing | Фактчек 28.10: 2 записи пропущены (Венеция, Барселона), 6 — после правок (reports/fact-checks/2026-10-29-travel-alerts.md). Следующий шаг — правки монитором. Страницы /travel-alerts на сайте ещё нет (W2-03) |
+| W1-10 | Первые записи /travel-alerts | alerts-monitor → fact-checker | review | 9 записей с правками фактчекера в content/alerts (+ общий день забастовок во Франции 5.11). Публиковать некуда, пока нет страницы /travel-alerts (W2-03) |
 
 ## Неделя 2 (9–15 ноября): продуктовая петля и ключевые страницы
 

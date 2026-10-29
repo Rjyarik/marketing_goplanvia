@@ -7,7 +7,7 @@ city: Ouigo high-speed routes (Madrid–Barcelona, Valencia, Alicante, Murcia, S
 category: transport
 confirmed: official  # strike days and minimum services: official; hours of the partial strikes: reported, not confirmed
 source: https://www.transportes.gob.es/transporte-terrestre/resoluciones-de-servicios-minimos-ferroviarios
-checked: 2026-10-28
+checked: 2026-10-29
 ---
 
 # Ouigo train drivers' strike in Spain: 30 Oct, 2, 6 and 9 Nov, 4 and 8 Dec
@@ -30,5 +30,5 @@ checked: 2026-10-28
 3. For 6 and 9 November and 4 and 8 December, watch the same page for the train lists. If you can, pick a train between 12:00 and 18:00, outside the reported (not confirmed) strike hours.
 4. If your dates are fixed, consider a refundable backup on Renfe or Iryo for the busiest legs.
 
-Source: [Ministry of Transport, minimum-services resolutions](https://www.transportes.gob.es/transporte-terrestre/resoluciones-de-servicios-minimos-ferroviarios); [Ouigo España, trains affected by the drivers' strike](https://www.ouigo.com/es/servicios-minimos-huelga); [Público/EFE, 8 October 2026 (media, strike days and routes)](https://www.publico.es/economia/maquinistas-convocan-seis-dias-huelga-ouigo-puentes-noviembre-diciembre.amp.html); [El Demócrata, 15 October 2026 (media, strike hours)](https://www.democrata.es/economia/los-maquinistas-reclaman-que-no-se-fijen-servicios-minimos-en-su-huelga-de-seis-dias-en-ouigo/). Checked: 2026-10-28.
+Source: [Ministry of Transport, minimum-services resolutions](https://www.transportes.gob.es/transporte-terrestre/resoluciones-de-servicios-minimos-ferroviarios); [Ouigo España, trains affected by the drivers' strike](https://www.ouigo.com/es/servicios-minimos-huelga); [Público/EFE, 8 October 2026 (media, strike days and routes)](https://www.publico.es/economia/maquinistas-convocan-seis-dias-huelga-ouigo-puentes-noviembre-diciembre.amp.html); [El Demócrata, 15 October 2026 (media, strike hours)](https://www.democrata.es/economia/los-maquinistas-reclaman-que-no-se-fijen-servicios-minimos-en-su-huelga-de-seis-dias-en-ouigo/). Checked: 2026-10-29.
 Not legal advice — check official sources before you travel.
