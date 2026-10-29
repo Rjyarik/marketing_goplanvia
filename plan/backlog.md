@@ -28,11 +28,11 @@
 | W1-01 | Проверить, видят ли боты превью страниц; если нет — пререндеринг | developer | todo | Зависит от W0-09 |
 | W1-02 | События GA4: plan_shared, invite_sent, invite_accepted; канал «AI-ассистенты»; UTM | developer | todo | sign_up и trip_created уже есть (релиз 1.9) |
 | W1-03 | Спецификация совместной поездки: ссылка-приглашение, вход друга, голосование, комментарии | координатор + Ярослав | doing | Черновик — `plan/specs/group-trip-mvp.md` |
-| W1-04 | Базовый AI-замер, 30 промптов EN/ES | analyst | blocked | Нужен коннектор n8n (OpenRouter) |
+| W1-04 | Базовый AI-замер, 30 промптов EN/ES | analyst | blocked | Подключённый n8n — не тот (нет OpenRouter); ждём коннектор к n8n на VPS |
 | W1-05 | Настроить BabyLoveGrowth по разделу 9 «Стратегии» | Ярослав | todo | |
 | W1-06 | Профили в каталогах AI-инструментов: There's An AI For That, Futurepedia, AlternativeTo, Product Hunt | outreach | review | Тексты: content/outreach/2026-10-29-directory-profiles.md. Бесплатно — PH и AlternativeTo; TAAFT от $49, Futurepedia $197–497, Toolify $99 — решение Ярослава |
-| W1-07 | 50 микрокреаторов ES/EN | outreach | todo | |
-| W1-08 | 2 аккаунта Reddit отвечают без ссылок | Ярослав | todo | Черновики — community-scout |
+| W1-07 | 50 микрокреаторов ES/EN | outreach | doing | |
+| W1-08 | 2 аккаунта Reddit отвечают без ссылок | Ярослав | todo | Первый дайджест черновиков — 29.10 |
 | W1-09 | Цели аутрича: подборки «AI trip planner», «Wanderlog alternatives» | outreach | review | 25 целей в data/outreach-targets.csv; групповым подборкам писать после запуска совместных поездок |
 | W1-10 | Первые записи /travel-alerts | alerts-monitor → fact-checker | doing | Фактчек 28.10: 2 записи пропущены (Венеция, Барселона), 6 — после правок (reports/fact-checks/2026-10-29-travel-alerts.md). Следующий шаг — правки монитором. Страницы /travel-alerts на сайте ещё нет (W2-03) |
 
