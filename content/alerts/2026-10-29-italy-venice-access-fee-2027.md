@@ -1,10 +1,10 @@
 ---
-status: ожидается
+status: expected
 starts: 2027-03-26
 ends: 2027-08-15
 country: Italy
 city: Venice
-category: сбор
+category: fee
 confirmed: official
 source: https://live.comune.venezia.it/it/2026/10/contributo-di-accesso-il-calendario-2027
 checked: 2026-10-28

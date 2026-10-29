@@ -1,10 +1,10 @@
 ---
-status: действует
+status: active
 starts: 2026-04-01  # next step: city surcharge €6 from 2027-04-01
 ends: неизвестно
 country: Spain
 city: Barcelona
-category: сбор
+category: fee
 confirmed: official
 source: https://ajuntament.barcelona.cat/turisme/en/latest-news/news/the-parliament-of-catalonia-passes-an-increase-of-the-tourist-tax-1607097
 checked: 2026-10-28

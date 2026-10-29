@@ -1,10 +1,10 @@
 ---
-status: ожидается
+status: expected
 starts: 2026-11-20
 ends: 2026-11-22
 country: Italy
 city: вся страна
-category: транспорт
+category: transport
 confirmed: official  # general strike 20 Nov confirmed by CGIL; rail strike 20–21 Nov and air strikes 21–22 Nov: reported, not confirmed
 source: https://www.cgil.it/strumenti/scioperi-e-vertenze/cgil-proclamazione-sciopero-generale-per-il-giorno-20-novembre-2026-x0ylgq91
 checked: 2026-10-28
@@ -26,10 +26,10 @@ checked: 2026-10-28
 
 **What to do:**
 
-1. If your dates are flexible, shift the trip a week (27–29 November) or travel out on Thursday 19 November.
+1. If your dates are flexible, shift the trip a week (27–29 November) or travel out on Thursday 19 November, ideally before the evening: the transport unions haven't published their hours for 20 November yet, and rail stoppages in Italian general strikes can start at 21:00 the day before.
 2. If you can't move: book trains that leave inside the guaranteed windows or appear in Trenitalia's Table A, and avoid flights departing between 13:00 and 17:00 on 21 November.
 3. Have everyone check their train or airline app 1–2 days before. If you're booked on Italo, check Italo's own strike notices as well.
-4. For getting around town on 20–21 November, plan walkable days and set aside money for taxis. 4 friends sharing a taxi pay a quarter each.
+4. For getting around town on 20–21 November, plan walkable days and set aside money for taxis. 4 friends sharing a taxi pay a quarter each. Taxis are also listed among the sectors joining the 20 November general strike (reported, not confirmed), so don't rely on them that day.
 
 Source: [CGIL, proclamation of the 20 November 2026 general strike](https://www.cgil.it/strumenti/scioperi-e-vertenze/cgil-proclamazione-sciopero-generale-per-il-giorno-20-novembre-2026-x0ylgq91); [Trenitalia, guaranteed trains during strikes](https://www.trenitalia.com/it/informazioni/treni-garantiti-incasodisciopero.html); [Missionline, 26 October 2026 (media, rail strike citing the Ministry of Transport calendar)](https://www.missionline.it/sciopero-treni-novembre-2026-stop-nazionale-tra-il-20-e-il-21-coinvolto-anche-il-trasporto-merci/); [SicurAUTO, 21 October 2026 (media, air strikes)](https://www.sicurauto.it/news/traffico-e-viabilita/sciopero-trasporti-novembre-2026-stop-di-bus-treni-e-aerei/). Checked: 2026-10-28.
 Not legal advice — check official sources before you travel.
