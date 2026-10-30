@@ -62,11 +62,11 @@ PlanVIA's AI builds a day-by-day itinerary with a map and real places for 100+ d
 - **Who paid for what.** PlanVIA has no shared budget and doesn't split costs. Use Splitwise or Tricount.
 - **Your main group chat.** Participants get a trip chat for questions about the plan. The jokes and the "where are you?" messages stay in the chat your group already uses.
 - **A private ticket wallet.** Tickets and bookings sit in the trip's shared place for its participants. There is no personal wallet for one person's tickets.
-- **The decision itself.** AI can draft a Saturday in Lisbon. It can't decide for your group between Sintra and the beach. That's what the four steps above, and the votes, are for.
+- **The decision itself.** AI can draft a Saturday in Lisbon. It can't decide for your group between Sintra and the beach. That's what the four steps above are for.
 
 ## How much does a 3-day trip with friends in Europe cost per person?
 
-In Lisbon, 3 days with friends cost about €190 per person, without the apartment, flights, dinners and evening drinks (source: [3 days in Lisbon with friends](/itineraries/3-days-in-lisbon-with-friends), prices checked 30 Oct 2026). For Porto the figure is still being checked [€… per person — проверить вручную: страница Porto, W2-05].
+In Lisbon, 3 days with friends cost about €190 per person, without the apartment, flights, dinners and evening drinks (source: [3 days in Lisbon with friends](/itineraries/3-days-in-lisbon-with-friends), prices checked 30 Oct 2026).
 
 ### Ready-made trips with friends
 
@@ -75,11 +75,10 @@ In Lisbon, 3 days with friends cost about €190 per person, without the apartme
 | City | Days | Built for | Est. per person, excl. flights | Biggest cost item | Checked | Copy this itinerary |
 |---|---|---|---|---|---|---|
 | Lisbon | 3 | 4–6 friends | ~€190, without the apartment, dinners and drinks ([source: Lisbon page](/itineraries/3-days-in-lisbon-with-friends)) | Lunches and coffee, ~€64 (the biggest priced line; the apartment is not priced) | 30 Oct 2026 | [Copy our Portugal plan (Lisbon + Porto)](https://goplanvia.com/plan/70033101-2bc4-4b89-9354-d86b5b9079f0) and keep the 3 days that fit your group |
-| Porto, Semana Santa | 4 | 4–6 friends | €… [проверить вручную: страница Porto, W2-05] | … [проверить вручную: страница Porto, W2-05] | — | [Copy our Portugal plan (Lisbon + Porto)](https://goplanvia.com/plan/70033101-2bc4-4b89-9354-d86b5b9079f0) and keep the days that fit your group |
 
 Per person. The Lisbon figure leaves out the apartment, flights, dinners and evening drinks, so it is the same for 4 or 6 friends. Prices come from each city page, where every line has its source.
 
-Both rows open the same Portugal plan (Lisbon + Porto), which runs longer than either row. Copy it and keep the days you need.
+The Lisbon row opens our Portugal plan (Lisbon + Porto), which runs longer than 3 days. Copy it and keep the days you need.
 
 **One line you can already price: Pena Palace in Sintra.** The Essential visit (palace and park) is €20 per adult and the Full Tour is €45, so palace tickets for 4 friends cost €80–€180. Not everyone has to go inside: the park-only ticket is €12, and half the group can meet the others at the gate. Source: [Parques de Sintra, opening times and prices](https://www.parquesdesintra.pt/en/plan-your-visit/opening-times-and-prices/). Checked: 30 Oct 2026.
 
@@ -283,3 +282,5 @@ Checked: 30 Oct 2026.
 5. Текст про 4 друзей «in one apartment» под таблицей заменён: цифра Lisbon без жилья, поэтому не зависит от группы 4 или 6.
 
 **Осталось в тексте страницы:** 5 пометок «проверить вручную» (ответ под H2 про Porto: 1; цена и главная статья расходов для Porto: 2; цитата практика и имя: 2), 2 пометки «ждёт утверждения» (раскрытие партнёрских ссылок, вопрос 12) и «[био: ждёт Ярослава]».
+
+- 30.10 (координатор): R2 повторной проверки; строка Porto и фраза о Porto убраны до фактчека страницы Porto (вариант Б) — вернуть после W2-05.

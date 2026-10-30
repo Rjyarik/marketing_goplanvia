@@ -212,3 +212,88 @@
 4. Ссылки на планы Lisbon и Porto в каталоге. (п. 6)
 5. Реальный автор с одной строкой био. (п. 11)
 6. Открыть вручную сайт Torre de Belém и BOE-A-2026-21254 или согласиться удалить эти фразы (замечание 4).
+
+## Повторная проверка 30.10
+
+Черновик: `content/pages/2026-10-29-group-trip-planner.en.md`, draft v3 (Changelog 2026-10-30 (2) и (3)).
+Фактчекер, проверено 2026-10-30. Объём задан координатором: только изменения от 30.10 (цены Plus, групповые функции, строка Lisbon, отсутствие данных рынка США) и закрытие п. 11, 16, 20. Ссылки вида L65 — строки версии draft v3.
+
+Вердикт по изменениям 30.10: **пропускаю после правок.** Правка одна — R2 (голосования). Нести Ярославу на одобрение публикации можно после R2 и после решения по Porto. По `CLAUDE.md` три пометки «[проверить вручную]» про Porto не пускают черновик дальше (раздел 4).
+
+### 1. Torre de Belém: п. 11, 16, 20 закрыты
+
+museusemonumentos.pt открыл сам.
+
+| # | Утверждение | Источник | Проверено | Вердикт |
+|---|---|---|---|---|
+| 11 | Закрыта по понедельникам, 1.01, в Пасхальное воскресенье, 1.05, 13.06 и 25.12 | [MMP, Torre de Belém](https://www.museusemonumentos.pt/pt/museus-e-monumentos/torre-de-belem): «Encerrado: Segundas-feiras, 1 de janeiro, domingo de Páscoa, 1 de maio, 13 de junho, 25 de dezembro»; «Terça a Domingo, das 9h30 às 17h30» | 2026-10-30 | верно (было cannot verify) |
+| 16 | Закрыта в Пасхальное воскресенье, 28.03.2027 | То же; Пасха 2027 — 28 марта, пересчитал по пасхалии | 2026-10-30 | верно (было cannot verify) |
+| 20 | Закрыта 13 июня | То же | 2026-10-30 | верно (было cannot verify) |
+| 10 | Посещение по брони на дату и время | [MMP, нота от 20.05.2026](https://www.museusemonumentos.pt/pt/noticia-com/torre-de-belem-reabre-ao-publico): «O sistema de acesso por horários definidos (slots)», посетителей принимают с 27 мая | 2026-10-30 | верно; теперь есть официальный источник |
+
+- Последнего входа (17:00) на странице MMP нет. Эту цифру не использовать.
+- `data/place-facts.csv`: строки 60–61 (writer, MMP) подтверждены. В строке 62 по MMP подтверждены дата открытия и слоты, лимиты 60 и 900 остаются «reported». Строки 10–12 (visitlisboa.com, 28.10) этим устарели. CSV я не менял.
+
+Сейчас этих фраз в хабе нет: автор удалил их по варианту Б (Changelog 2026-10-30, п. 8). Возвращать не обязательно. Если возвращать, то только с официальным источником:
+- L95: «- **Belém Tower, Lisbon.** Visits are booked for a date and time ([Turismo de Lisboa](https://www.visitlisboa.com/pt-pt/locais/torre-de-belem)).» → «- **Belém Tower, Lisbon.** Visits are booked for a time slot, and the tower is closed on Mondays and on 1 January, Easter Sunday, 1 May, 13 June and 25 December ([Museus e Monumentos de Portugal](https://www.museusemonumentos.pt/pt/museus-e-monumentos/torre-de-belem); [reopening notice, 20 May 2026](https://www.museusemonumentos.pt/pt/noticia-com/torre-de-belem-reabre-ao-publico)).»
+- L102, строка 12–13 June: в конец колонки «What it means for your group» добавить «Belém Tower is closed on 13 June.», в колонку Source — «[Museus e Monumentos de Portugal](https://www.museusemonumentos.pt/pt/museus-e-monumentos/torre-de-belem)».
+- L101, строка Semana Santa, по желанию: «Belém Tower in Lisbon is closed on Easter Sunday, 28 March.» с той же ссылкой.
+- Sources (L179): добавить «- Museus e Monumentos de Portugal: [Belém Tower](https://www.museusemonumentos.pt/pt/museus-e-monumentos/torre-de-belem), [reopening notice, 20 May 2026](https://www.museusemonumentos.pt/pt/noticia-com/torre-de-belem-reabre-ao-publico)».
+
+Если фразы не возвращать, в L95 всё равно стоит заменить источник: Turismo de Lisboa → нота MMP от 20.05.2026. По роли фактчекера «нужна ли бронь» сверяют с официальным сайтом места, а он теперь открывается. На странице Lisbon так и сделано (L126). Это не блокер.
+
+### 2. Изменения 30.10
+
+| # | Утверждение | Источник | Проверено | Вердикт | Что заменить |
+|---|---|---|---|---|---|
+| H1 | Plus: €4.99 в месяц, €10.99 за 3 месяца, €29.99 в год; безлимит планов, AI-консьерж без ограничений, PDF, офлайн, приоритетная генерация; ссылка на goplanvia.com/plus и «Checked: 30 Oct 2026» (L58, L134–L142, L181) | `CLAUDE.md`: цены проверил координатор 30.10, «Оплата работает — цены публикуем»; CSV 161. Сам goplanvia.com/plus не открыл: URL не в allowlist среды | 2026-10-30 | верно по `CLAUDE.md`; п. 51 закрыт | — |
+| H2 | «free to start» (L29, L134) | Как в п. 43 | 2026-10-30 | верно с оговоркой: лимит бесплатных планов не называть (вопрос 1) | — |
+| H3 | По ссылке по умолчанию только просмотр; владелец даёт право редактировать и делает участником (L29, L40, L56, L113, L146, L150) | `CLAUDE.md` | 2026-10-30 | верно; п. 45 (M1, M14) закрыт | — |
+| H4 | У участников общий чат, общее место для билетов и броней, голосования (L40, L50, L56, L106, L114, L116, L118, L150) | `CLAUDE.md` | 2026-10-30 | верно | — |
+| H5 | Подтверждение Pena, билеты и брони кладут в общее место поездки (L94, L158) | `CLAUDE.md` | 2026-10-30 | верно | — |
+| H6 | Нет общего бюджета и деления расходов; нет личного кошелька (L50, L62, L64, L124, L150, L162) | `CLAUDE.md`, «Чего пока нет» | 2026-10-30 | верно; п. 49 закрыт | — |
+| H7 | «The decision itself… That's what the four steps above, and the votes, are for.» (L65) | `CLAUDE.md`: голосования есть. Что именно голосуют, не подтверждено (`plan/questions.md` п. 20, CSV 162) | 2026-10-30 | неверно: по фразе выходит, что голосованием решают «Sintra или пляж», то есть она называет предмет голосования | R2 |
+| H8 | Real-time PlanVIA не приписан; про Wanderlog сказано «describes its editing as real-time» (L106, L113, L122) | `CLAUDE.md` о real-time молчит (вопрос 19); Wanderlog — App Store US, п. 35 | 2026-10-30 | верно | — |
+| H9 | Ни Plus для участников, ни вход без регистрации не утверждаются | Поиск по тексту страницы | 2026-10-30 | верно | — |
+| H10 | Lisbon: около €190 на человека за 3 дня без жилья, перелётов, ужинов и напитков; «Checked: 30 Oct 2026» (L69, L77, L80) | Страница Lisbon (L41, L47, L57) и пересчёт в `2026-10-30-lisbon-3-days-friends.md`, раздел «Повторная проверка 30.10»: €189,46 по строкам CSV | 2026-10-30 | верно; п. 57 (M3, M4) закрыт, п. 56 (M2) закрыт для Lisbon | N3 по желанию |
+| H11 | Главная статья расходов Lisbon: «Lunches and coffee, ~€64 (the biggest priced line; the apartment is not priced)» (L77) | Строки страницы Lisbon: еда 63,90 > 50 > 32,60 > 30,96 > 12 | 2026-10-30 | верно | — |
+| H12 | «so it is the same for 4 or 6 friends» (L80) | Страница Lisbon, L61: от размера группы зависит только жильё | 2026-10-30 | верно | — |
+| H13 | Обе строки ведут на один план «Lisbon + Porto», и он длиннее обеих строк (L77, L78, L82, L170) | `CLAUDE.md` (план «Португалия, Лиссабон + Порту»); CSV 165 (координатор: 9+ дней) | 2026-10-30 | верно со слов координатора | — |
+| H14 | Нет данных рынка США | Поиск: Google Flights, Expedia, «US», «American», вылеты из США — в тексте и Sources их нет. Ссылки apps.apple.com/us — это описания приложений, а не данные рынка | 2026-10-30 | верно | — |
+| H15 | Ответ под «How far ahead…» и абзац «Flights» (L88, L90): цифры только по Pena и датам Semana Santa | CSV 6–8, 28; BOJA (п. 12–13) | 2026-10-30 | верно | — |
+| H16 | Автор — Ere Jotta (L9, L189) | `CLAUDE.md`, чек-лист п. 6 | 2026-10-30 | верно; био — заглушка | — |
+
+**R2 (L65).** «That's what the four steps above, and the votes, are for.» → «That's what the four steps above are for.» Голосования на странице и так названы в L40, L50, L56 и L114. Когда Ярослав ответит на вопрос 20, можно написать, что именно голосуют.
+
+**N3 (по желанию), L69.** Цифра Lisbon посчитана для тех, кто в день 3 едет в Sintra; без Sintra выходит €158,50. Вариант: «In Lisbon, 3 days with friends cost about €190 per person» → «In Lisbon, 3 days with friends, with a day in Sintra, cost about €190 per person».
+
+**N4, L73.** Служебный комментарий «Сейчас готовых 0» устарел: строка Lisbon уже заполнена. Перед публикацией убрать — HTML-комментарий может попасть в код страницы.
+
+Стоп-слова и бренд: не найдено. PlanVIA написан верно везде, фраза о продукте (L29) совпадает дословно.
+
+### 3. Статус вопросов из прежнего отчёта
+
+- (а) Ссылка на план — закрыт ответом Ярослава. Открытым остаётся только вопрос «открывается ли без регистрации» (чек-лист п. 7).
+- (б) Кошелёк — закрыт: у участников общее место, личного кошелька нет.
+- (в) Цены Plus — закрыт.
+- (г) Раскрытие партнёрских ссылок — открыт (вопрос 12).
+- (д) Планы Lisbon и Porto — закрыт: один общий план.
+- Замечание 4: Torre de Belém закрыто (раздел 1). BOE больше не нужен: фразу про Viernes Santo удалили.
+
+### 4. Можно ли нести Ярославу
+
+**Да, после R2 и решения по Porto**, в одном пакете со страницей Lisbon. Хаб ссылается на неё как на источник цифры €190; без неё ссылки в L69, L77 и L181 никуда не ведут.
+
+Porto — три пометки «[проверить вручную]» (L69 — одна, L78 — две). Варианты:
+- А: дождаться страницы Porto после фактчека (W2-05);
+- Б: убрать в L69 фразу «For Porto the figure is still being checked [€… per person — проверить вручную: страница Porto, W2-05].» и строку Porto в L78. Тогда в L82 «Both rows open the same Portugal plan (Lisbon + Porto), which runs longer than either row. Copy it and keep the days you need.» → «The Lisbon row opens our Portugal plan (Lisbon + Porto), which runs longer than 3 days. Copy it and keep the days you need.»
+
+Остаются заглушки — это решения Ярослава:
+- цитата практика и имя (L128). Формально это тоже две пометки «[проверить вручную]», но координатор считает их заглушкой чек-листа п. 4;
+- био Ere Jotta (L10, L189);
+- раскрытие партнёрских ссылок (L57, L158, пометка «[ждёт утверждения]», вопрос 12): текст утверждает Ярослав.
+
+Ещё открыто:
+- slug страницы Lisbon: от него зависят ссылки в L69, L77 и L181;
+- открывается ли план без регистрации (чек-лист п. 7). Из среды не подтвердилось: в HTML только метатеги;
+- комментарий в L73 (N4).

@@ -188,7 +188,7 @@ One of you copies the plan, trims it to the days you need and sends the link to 
 For this route that means:
 
 - **Bookings in one place.** The castle tickets, the Belém Tower slot, the Pena slot and the Adega Machado table are all booked ahead (see above). Put the confirmations in the trip's shared place for tickets and bookings.
-- **Votes.** Participants can vote. The one real decision on this route is who goes to Sintra and who goes to the beach; the 70/30 rule says to settle it the evening before.
+- **Votes.** Participants can vote, so a disagreement ends in a count and not in the loudest message.
 - **Money stays outside.** PlanVIA doesn't track who paid for what: for the apartment and the dinners use Splitwise or Tricount, as above.
 
 Planning is free to start. PlanVIA Plus adds unlimited plans, an AI concierge without limits, PDF export, offline access and priority generation: €4.99 a month, €10.99 for 3 months or €29.99 a year. Source: [goplanvia.com/plus](https://goplanvia.com/plus). Checked: 30 Oct 2026.
@@ -237,3 +237,5 @@ PlanVIA is an AI group trip planner: plan a trip with friends in minutes, with a
 - **План.** Подпись по указанию координатора: «Copy our Portugal plan (Lisbon + Porto) and keep the 3 days that fit your group». Координатор открыл план 30.10: длинный (9+ дней: Лиссабон, Синтра, Кашкайш, затем Порту), открывается по ссылке. Не проверено: без регистрации ли (чек-лист п. 7) и нет ли в оставляемых днях закрытых подъёмников и Belém в понедельник, поэтому в финале остался совет сверить дни.
 
 **Осталось в тексте страницы:** 0 пометок «проверить вручную». Остаются заглушки: цитата практика, «[био: ждёт Ярослава]», пометка про /travel-alerts (W2-03), slug в front matter.
+
+- 30.10 (координатор): R1 повторной проверки — пункт «Votes» без предмета голосования.
