@@ -52,7 +52,7 @@
 | ID | Задача | Исполнитель | Статус |
 |---|---|---|---|
 | W3-01 | Ежедневный мониторинг ограничений, /travel-alerts раз в неделю | alerts-monitor | todo |
-| W3-02 | 1–2 ролика в день, 3 карусели в неделю, черновики в Postiz | social-producer | todo |
+| W3-02 | 1–2 ролика в день, 3 карусели в неделю, черновики в Postiz | social-producer | doing — 6 постов LinkedIn EN/ES на одобрении (content/social/2026-10-30-linkedin-posts.md) |
 | W3-03 | Ярмарки, Новый год, лыжи с друзьями — в ролики и Reddit; страницы сайта — под весну и лето 2027 | social-producer, writer | todo |
 | W3-04 | Сравнения: Best apps for planning a group trip, PlanVIA vs Wanderlog, Wanderlog alternatives | seo-researcher, writer | todo |
 | W3-05 | Письма 20–30 авторам подборок | outreach | todo |

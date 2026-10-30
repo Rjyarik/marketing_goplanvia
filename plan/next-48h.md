@@ -23,7 +23,7 @@
 - [x] Запустить первую волну агентов (ниже) и проверить результаты.
 - [x] Отправить работу в GitHub, как только появится доступ.
 - [x] Собрать вопросы агентов к Ярославу — `plan/questions.md`.
-- [ ] 29 октября вечером: итог дня Ярославу и следующая волна задач.
+- [x] 29 октября вечером: итог дня Ярославу и следующая волна задач.
 
 ## Агенты: первая волна (29 октября)
 
@@ -44,3 +44,18 @@
 | outreach | Первые 25 микрокреаторов ES/EN | — |
 | analyst | Базовый AI-замер | Коннектор n8n |
 | social-producer | Первые 3 сценария роликов на зимние темы | Коннектор n8n для медиа; сценарии можно раньше |
+
+## 30 октября: что запущено на самом деле
+
+| Поток | Задача | Результат | Статус |
+|---|---|---|---|
+| fact-checker | Проверить черновик хаба /group-trip-planner (15 пометок) | `reports/fact-checks/2026-10-30-group-trip-planner-hub.md` | doing |
+| writer | «3 days in Lisbon with friends» EN, затем «Semana Santa en Oporto con amigos» ES | `content/pages/2026-10-30-*.md` | doing |
+| outreach | Креаторы до 25, проверка 8 существующих | `data/creators.csv`, `content/outreach/2026-10-30-creators-report.md` | doing |
+| координатор | 6 постов LinkedIn (компания + личный), EN/ES, картинки | `content/social/2026-10-30-linkedin-posts.md` | review |
+
+Следующая волна (когда освободятся потоки):
+1. seo-researcher — брифы /how-it-works, /faq, /pricing (W2-03) и сравнений W3-04: PlanVIA vs Wanderlog, Wanderlog alternatives, Pilot.
+2. writer — правки хаба по отчёту фактчекера.
+3. social-producer — 3 сценария роликов на зимние темы (ярмарки, Новый год, лыжи с друзьями).
+4. community-scout — дайджест тредов №2.
