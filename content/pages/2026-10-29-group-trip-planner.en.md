@@ -115,7 +115,7 @@ Use PlanVIA for the itinerary, the map and bookings, Splitwise or Tricount for s
 | Editing together | One person edits; friends see the shared link | Wanderlog: "everyone can collaborate in real-time" | If several people add places at once, choose Wanderlog |
 | Splitting costs | No | Splitwise (free; Pro adds receipt scanning and currency conversion), Tricount (free, "no limit on tricounts or expenses"), Wanderlog (budget, expenses and bill splitting) | Money needs its own ledger: one app per trip, settled once at the end |
 | Group chat | No | WhatsApp or whatever your group already uses | Don't move the chat; send the plan link into it |
-| Offline | With PlanVIA Plus | Wanderlog's sources disagree: the App Store listing says plans are stored offline, its help center lists offline download as a Pro feature ([help center](https://help.wanderlog.com/), checked 30 Oct 2026) | Check this before a trip with patchy roaming |
+| Offline | With PlanVIA Plus | Wanderlog's sources disagree: the App Store listing says plans are stored offline, its help center lists offline download as a Pro feature ([help center](https://help.wanderlog.com/hc/en-us/sections/13302911983643--Pro-features), checked 30 Oct 2026) | Check this before a trip with patchy roaming |
 | Tickets and bookings | Ticket wallet: PDFs and images | — | All the trip's tickets in one place, not scattered across inboxes |
 
 ### When to choose another tool instead
