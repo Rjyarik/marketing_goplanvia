@@ -5,9 +5,9 @@ og_title: "Plan a trip with friends in minutes"
 og_subtitle: "Day-by-day itinerary, map and real places"
 lang: en
 url: /group-trip-planner
-updated: 2026-10-28
-author: "PlanVIA team"  # [нужен реальный автор с одной строкой био — чек-лист п. 6]
-status: draft, ждёт фактчека
+updated: 2026-10-30
+author: "[проверить вручную: имя автора и одна строка био — plan/questions.md п. 11]"  # чек-лист п. 6
+status: draft v2, правки фактчекера от 2026-10-30 внесены; ждёт ответов Ярослава и повторного фактчека
 brief: research/briefs/2026-10-29-friends-trip-planner-hub.en.md
 backlog: W2-03
 ---
@@ -15,10 +15,11 @@ backlog: W2-03
 <!--
 Пометки для координатора и фактчекера (на странице не публикуются):
 1. Адрес — /group-trip-planner (не /plan/...: путь занят маршрутом /plan/:tripId).
-2. goplanvia.com из среды агента не открывается (403 прокси). Факты о продукте взяты из задачи координатора и CLAUDE.md; цены Plus помечены [проверить вручную] до сверки с /plus.
+2. goplanvia.com из среды агента не открывается (403 прокси). Факты о продукте взяты из задачи координатора и CLAUDE.md. Цены Plus убраны из текста (фактчек №51): вернуть после W0-11, со ссылкой на /plus и датой проверки.
 3. Таблица «Ready-made trips with friends»: по брифу в неё идут только строки с опубликованными проверенными страницами городов. Сейчас таких страниц 0 — строки-заготовки, публиковать без цифр нельзя.
 4. В тексте нет «vote», «split the budget», «invite your group», «agree in one evening». Про совместное редактирование — честно, что его нет.
-5. Все факты с источниками — в data/place-facts.csv (checked_at 2026-10-28).
+5. Все факты с источниками — в data/place-facts.csv (checked_at 2026-10-28, перепроверено фактчекером 2026-10-30; строки фактчекера по Google Flights заменяют строки 16–17).
+6. Правки фактчекера от 2026-10-30 внесены, список — в разделе «Changelog 2026-10-30» в конце файла. Заглушки, которые ждут Ярослава, стоят в квадратных скобках с номером вопроса из plan/questions.md.
 -->
 
 # AI trip planner for friends
@@ -51,20 +52,20 @@ PlanVIA's AI builds a day-by-day itinerary with a map and real places for 100+ d
 - **A day-by-day itinerary** with a map and real places, built by AI for 100+ destinations.
 - **Ready-made plans:** open one from the catalogue, copy it and change it for your group.
 - **A link to share the plan** with friends.
-- **Booking through partners:** flights, trains, car rental, eSIM and hotels. <текст раскрытия партнёрских ссылок: уточнить у координатора>
-- **A ticket wallet** for the trip's bookings and tickets (PDFs and images), so the person who booked the train isn't the only one who can find the tickets.
+- **Booking through partners:** flights, trains, car rental, eSIM and hotels. Some links are partner links: if you book through them, PlanVIA earns a commission at no extra cost to you. [ждёт утверждения]
+- **A ticket wallet** for the trip's bookings and tickets (PDFs and images), so the trip's tickets aren't scattered across inboxes.
 - **PlanVIA Plus:** unlimited plans, an AI concierge, PDF export and offline access.
 
 **What stays outside PlanVIA**
 
-- **Editing at the same time.** The person who builds the plan edits it; friends open the shared link to see it. [проверить вручную: уточнить у координатора, как сейчас работает ссылка — только просмотр, нужен ли вход] If three of you want to add places at once, Wanderlog has real-time co-editing (see the table below).
+- **Editing at the same time.** The person who builds the plan edits it; friends open the shared link to see it. [проверить вручную: как работает ссылка на план — только просмотр или можно копировать, нужен ли вход; ответ Ярослава, plan/questions.md п. 2] If three of you want to add places at once, Wanderlog has real-time co-editing (see the table below).
 - **Who paid for what.** Use Splitwise or Tricount.
 - **The conversation.** Keep it in your group chat.
 - **The decision itself.** AI can draft a Saturday in Lisbon. It can't decide for your group between Sintra and the beach. That's what the four steps above are for.
 
 ## How much does a 3-day trip with friends in Europe cost per person?
 
-For 4 friends sharing one apartment, 3 days in Europe cost [€… – €… per person, excluding flights — проверить вручную: вилка из страниц Lisbon и Porto после фактчека]. Each trip below has its own estimate, checked against official prices, and a link to copy the plan.
+For 4 friends sharing one apartment, 3 days in Europe cost [€… – €… per person, excluding flights — проверить вручную: вилка из проверенных страниц Lisbon и Porto (W2-05) и их планов в каталоге, plan/questions.md п. 6].
 
 ### Ready-made trips with friends
 
@@ -72,35 +73,35 @@ For 4 friends sharing one apartment, 3 days in Europe cost [€… – €… pe
 
 | City | Days | Built for | Est. per person, excl. flights | Biggest cost item | Checked | Copy this itinerary |
 |---|---|---|---|---|---|---|
-| Lisbon | 3 | 4–6 friends | €… [проверить вручную] | … [проверить вручную] | — | <план из каталога: уточнить у координатора> |
-| Porto, Semana Santa | 4 | 4–6 friends | €… [проверить вручную] | … [проверить вручную] | — | <план из каталога: уточнить у координатора> |
+| Lisbon | 3 | 4–6 friends | €… [проверить вручную: страница Lisbon, W2-05] | … [проверить вручную: страница Lisbon, W2-05] | — | [проверить вручную: ссылка на план Lisbon из каталога, plan/questions.md п. 6] |
+| Porto, Semana Santa | 4 | 4–6 friends | €… [проверить вручную: страница Porto, W2-05] | … [проверить вручную: страница Porto, W2-05] | — | [проверить вручную: ссылка на план Porto из каталога, plan/questions.md п. 6] |
 
 Per person, for a group of 4 in one apartment. Prices come from each city page, where every line has its source.
 
-**One line you can already price: Pena Palace in Sintra.** The Essential visit (palace and park) is €20 per adult and the Full Tour is €45, so palace tickets for 4 friends cost €80–€180. Not everyone has to go inside: the park-only ticket is €12, and half the group can meet the others at the gate. Source: [Parques de Sintra, opening times and prices](https://www.parquesdesintra.pt/en/plan-your-visit/opening-times-and-prices/). Checked: 28 Oct 2026.
+**One line you can already price: Pena Palace in Sintra.** The Essential visit (palace and park) is €20 per adult and the Full Tour is €45, so palace tickets for 4 friends cost €80–€180. Not everyone has to go inside: the park-only ticket is €12, and half the group can meet the others at the gate. Source: [Parques de Sintra, opening times and prices](https://www.parquesdesintra.pt/en/plan-your-visit/opening-times-and-prices/). Checked: 30 Oct 2026.
 
 ## How far ahead should a group of friends start planning?
 
-Start about 3 months before the trip. That leaves time to agree the cap and dates and still book in the cheaper fare window: Google Flights puts the low-price window for trips to Europe from 49 days before departure, with the average low around 90 days [проверить вручную]. Timed tickets, such as Pena Palace, are for a fixed date and time, so book them as soon as the flights are booked.
+Start about 3 months before the trip. That leaves time to agree the cap and dates and still book in the cheaper fare window: for flights from the US to Europe, Google Flights puts the low-price range at 49 days or more before departure, with the lowest prices about 90 days out ([Google, 5 Oct 2026](https://blog.google/products-and-platforms/products/search/holiday-travel-trends-2026/)). Timed tickets, such as Pena Palace, are for a fixed date and time, so book them as soon as the flights are booked.
 
 **Flights.** The big fare studies use US data, and they don't agree:
 
-- **Google Flights** (October 2026, five years of data, departures from the US): trips to Europe were cheapest from 49 days out, with the average low point about 90 days out; spring-break trips in March and April bottomed out at about 50 days. [проверить вручную: первоисточник blog.google не открылся, цифры по пересказам PPC Land и 9to5Google от 05.10.2026]
+- **Google Flights** (October 2026, five years of data, departures from the US): for trips to Europe, fares were in the low range from 49 days or more before departure and lowest about 90 days out; for spring-break trips in March and April, the lowest point was about 50 days out (low range 29–64 days). Source: [Google, 5 Oct 2026](https://blog.google/products-and-platforms/products/search/holiday-travel-trends-2026/).
 - **Expedia 2026 Air Hacks** (Expedia.com bookings, December 2024 to November 2025): international economy was cheapest 8–15 days out, and booking 31–45 days ahead saved about $190 compared with booking 6+ months ahead.
 
 For a group, don't chase the last-minute fare. You need four to eight seats on the same flight and everyone's money in before anyone books.
 
 **Timed tickets.**
 
-- **Pena Palace, Sintra.** You enter the palace only at the date and time on your ticket. Arrive early and you wait; arrive late and you're turned away, with no refund. Allow about 30 minutes from the park entrance to the palace. Tickets bought online can be moved to another date within one year. Parques de Sintra doesn't publish how fast slots sell out, but its ticket shop marks them "Last tickets" and "Sold Out". For a group: one order, one slot for everyone, and the friend who is always late gets a meeting time 30 minutes earlier than the rest.
-- **Belém Tower, Lisbon.** Visits are booked for a date and time. It is closed on Mondays and on 1 January, Easter Sunday, 1 May, 13 June and 25 December. [проверить вручную: источник — Turismo de Lisboa, сверить с официальным сайтом памятника]
+- **Pena Palace, Sintra.** You enter the palace only at the date and time on your ticket. Arrive early and you wait; arrive late and you're turned away, with no refund. Allow about 30 minutes from the park entrance to the palace. Tickets bought online can be moved to another date and time within one year, but only before your slot; a missed slot can be neither moved nor refunded. Parques de Sintra doesn't publish how fast slots sell out, but its ticket shop marks them "Last tickets" and "Sold Out". For a group: one order, one slot for everyone, and the friend who is always late gets a meeting time 30 minutes earlier than the rest.
+- **Belém Tower, Lisbon.** Visits are booked for a date and time ([Turismo de Lisboa](https://www.visitlisboa.com/pt-pt/locais/torre-de-belem)).
 
 **Dates that change plans in 2027**
 
 | Dates | What happens | What it means for your group | Source | Checked |
 |---|---|---|---|---|
-| Sun 21 – Sun 28 March 2027 | Semana Santa (Holy Week) | Thursday 25 and Friday 26 March are public holidays in Andalusia; Good Friday (26 March) is a national holiday in Spain [проверить вручную]. If some of you live in Spain, Thursday to Sunday is your 4-day window. Belém Tower is closed on Easter Sunday, 28 March [проверить вручную]. | [BOJA no. 84, 5 May 2026](https://www.juntadeandalucia.es/eboja/2026/84/BOJA26-084-00002-5812-01_00337048.pdf); [Garrigues on BOE, 13 Oct 2026](https://www.garrigues.com/es_ES/noticia/publicado-boe-calendario-laboral-espana-2027); [Turismo de Lisboa](https://www.visitlisboa.com/pt-pt/locais/torre-de-belem) | 28 Oct 2026 |
-| Sat 12 – Sun 13 June 2027 | St Anthony's night in Lisbon | The peak of Lisbon's June festivities. Turismo de Lisboa lists the June 2027 programme as "to be confirmed". Belém Tower is closed on 13 June [проверить вручную]. | [Turismo de Lisboa, Lisbon Festivities](https://www.visitlisboa.com/en/events/lisbon-festivities-1) | 28 Oct 2026 |
+| Sun 21 – Sun 28 March 2027 | Semana Santa (Holy Week) | Thursday 25 and Friday 26 March are public holidays in Andalusia. If some of you live in Andalusia, Thursday to Sunday is your 4-day window; elsewhere in Spain, check your region's calendar first. | [BOJA no. 84, 5 May 2026](https://www.juntadeandalucia.es/eboja/2026/84/BOJA26-084-00002-5812-01_00337048.pdf) | 30 Oct 2026 |
+| Sat 12 – Sun 13 June 2027 | St Anthony's night in Lisbon | The peak of Lisbon's June festivities. Turismo de Lisboa lists the June 2027 programme as "to be confirmed", so check it again before you book anything non-refundable. | [Turismo de Lisboa, Lisbon Festivities](https://www.visitlisboa.com/en/events/lisbon-festivities-1); [Turismo de Lisboa, St Anthony's night](https://www.visitlisboa.com/en/events/st-anthonys-night-12-13th-june) | 30 Oct 2026 |
 
 ## Which apps should your group use for what?
 
@@ -115,7 +116,7 @@ Use PlanVIA for the itinerary, the map and bookings, Splitwise or Tricount for s
 | Splitting costs | No | Splitwise (free; Pro adds receipt scanning and currency conversion), Tricount (free, "no limit on tricounts or expenses"), Wanderlog (budget, expenses and bill splitting) | Money needs its own ledger: one app per trip, settled once at the end |
 | Group chat | No | WhatsApp or whatever your group already uses | Don't move the chat; send the plan link into it |
 | Offline | With PlanVIA Plus | Wanderlog stores plans offline in its app | Check this before a trip with patchy roaming |
-| Tickets and bookings | Ticket wallet: PDFs and images | — | Everyone's tickets in the trip, not in one person's inbox |
+| Tickets and bookings | Ticket wallet: PDFs and images | — | All the trip's tickets in one place, not scattered across inboxes |
 
 ### When to choose another tool instead
 
@@ -123,27 +124,27 @@ Use PlanVIA for the itinerary, the map and bookings, Splitwise or Tricount for s
 - **Choose Layla** if nobody wants to be the organiser and the budget fits its tailor-made trips: planning is free, and its travel experts book the trip.
 - **Add Splitwise or Tricount** whichever planner you use. PlanVIA doesn't track who paid for what.
 
-Checked: 28 Oct 2026. Features and prices come from the products' own pages and App Store listings; links are under Sources.
+Checked: 30 Oct 2026. Features and prices come from the products' own pages and App Store listings; links are under Sources.
 
-> «<цитата практика: организатор групповых поездок или координатор студенческих поездок; нужен реальный человек через outreach>» — <имя, кто он>
+> [проверить вручную: цитата реального практика (организатор групповых поездок, гид или координатор студенческих поездок), через outreach и с «да» Ярослава; отдельного вопроса в plan/questions.md пока нет] — [проверить вручную: имя и кто он]
 
 ## Questions groups ask about PlanVIA
 
 ### Is PlanVIA free?
 
-Yes, PlanVIA is free to start: the AI builds a day-by-day itinerary with a map and real places. PlanVIA Plus adds unlimited plans, an AI concierge, PDF export and offline access for €4.99 a month, €10.99 for 3 months or €29.99 a year [проверить вручную: сверить с goplanvia.com/plus].
+Yes, PlanVIA is free to start: the AI builds a day-by-day itinerary with a map and real places. PlanVIA Plus adds unlimited plans, an AI concierge, PDF export and offline access.
 
 ### How do I share my trip plan with friends?
 
-Share the plan as a link and send it to your group chat. Friends see the same plan; the person who built it makes the changes. [проверить вручную: уточнить у координатора, нужен ли друзьям вход, чтобы открыть ссылку]
+Share the plan as a link and send it to your group chat. Friends see the same plan; the person who built it makes the changes. [проверить вручную: нужен ли друзьям вход, чтобы открыть ссылку; ответ Ярослава, plan/questions.md п. 2]
 
 ### Which cities can I plan with PlanVIA?
 
-More than 100 destinations. For each one, the AI builds a day-by-day itinerary with a map and real places. Some cities also have ready-made plans in the catalogue that you can copy and change. [проверить вручную: список городов с готовыми планами — у координатора]
+More than 100 destinations. For each one, the AI builds a day-by-day itinerary with a map and real places. Some cities also have ready-made plans in the catalogue that you can copy and change.
 
 ### Can we book flights, trains and hotels in PlanVIA?
 
-Yes, through partners: flights, trains, car rental, eSIM and hotels. <текст раскрытия партнёрских ссылок: уточнить у координатора> Before anyone books six train tickets on their own card, collect everyone's share. Once booked, put the PDFs in the trip's ticket wallet.
+Yes, through partners: flights, trains, car rental, eSIM and hotels. Some links are partner links: if you book through them, PlanVIA earns a commission at no extra cost to you. [ждёт утверждения] Before anyone books six train tickets on their own card, collect everyone's share. Once booked, put the PDFs in the trip's ticket wallet.
 
 ### How do you split costs on a group trip?
 
@@ -151,29 +152,84 @@ Outside PlanVIA. Splitwise is free to use (Pro adds receipt scanning, currency c
 
 ### What if someone drops out?
 
-Agree the dropout rule together with the cap, before anything is booked. For example: "If you cancel after the apartment is paid, your share stays paid unless someone takes your place." Read cancellation and name-change rules before you book, because they decide what a dropout costs. One example: Pena Palace tickets bought online can be moved to another date within one year, but a missed slot is not refunded.
+Agree the dropout rule together with the cap, before anything is booked. For example: "If you cancel after the apartment is paid, your share stays paid unless someone takes your place." Read cancellation and name-change rules before you book, because they decide what a dropout costs. One example: Pena Palace tickets bought online can be moved to another date and time within one year, but only before your slot: if you miss it, the ticket can't be changed or refunded.
 
 ---
 
-**Copy this itinerary:** 3 days in Lisbon with friends: <план из каталога: уточнить у координатора>
+**Copy this itinerary:** 3 days in Lisbon with friends: [проверить вручную: ссылка на план Lisbon из каталога, который открывается без регистрации; plan/questions.md п. 6 и п. 2, W2-02]
 
 Or **[create a trip](<ссылка на создание поездки: уточнить у координатора>)** for your own city and share the plan with your group.
 
 ### Sources
 
-Checked: 28 Oct 2026.
+Checked: 30 Oct 2026.
 
 - Parques de Sintra: [opening times and prices](https://www.parquesdesintra.pt/en/plan-your-visit/opening-times-and-prices/), [Pena: entry with booked date and time](https://www.parquesdesintra.pt/en/plan-your-visit/new-tickets-pnp/), [Pena ticket conditions](https://bilheteira.parquesdesintra.pt/info/parque-e-palacio-da-pena/1202/en), [Pena ticket shop](https://bilheteira.parquesdesintra.pt/evento/parque-e-palacio-nacional-da-pena/263/en)
-- Turismo de Lisboa: [Belém Tower](https://www.visitlisboa.com/pt-pt/locais/torre-de-belem), [Lisbon Festivities](https://www.visitlisboa.com/en/events/lisbon-festivities-1)
+- Turismo de Lisboa: [Belém Tower](https://www.visitlisboa.com/pt-pt/locais/torre-de-belem), [Lisbon Festivities](https://www.visitlisboa.com/en/events/lisbon-festivities-1), [St Anthony's night](https://www.visitlisboa.com/en/events/st-anthonys-night-12-13th-june)
 - Junta de Andalucía: [Decreto 84/2026, 2027 holiday calendar, BOJA no. 84](https://www.juntadeandalucia.es/eboja/2026/84/BOJA26-084-00002-5812-01_00337048.pdf)
-- Garrigues: [BOE publishes Spain's 2027 holiday calendar](https://www.garrigues.com/es_ES/noticia/publicado-boe-calendario-laboral-espana-2027) [проверить вручную: первоисточник BOE-A-2026-21254]
 - Expedia: [2026 Air Hacks report](https://www.expedia.com/newsroom/expedia-2026-air-hacks/)
-- Google Flights data, as reported by [PPC Land](https://ppc.land/google-flights-data-puts-lowest-christmas-fares-56-days-before-departure/) and [9to5Google](https://9to5google.com/2026/10/05/google-flights-cheap-times/), 5 Oct 2026 [проверить вручную: первоисточник blog.google]
-- Wanderlog: [App Store listing](https://apps.apple.com/om/app/id1476732439) <!-- витрина Oman: заменить на витрину рынка или страницу wanderlog.com -->
+- Google: [Wheels up: Trends and tips for 2026 holiday travel](https://blog.google/products-and-platforms/products/search/holiday-travel-trends-2026/), 5 Oct 2026
+- Wanderlog: [App Store listing](https://apps.apple.com/us/app/wanderlog/id1476732439), [budget and expense splitting](https://wanderlog.com/travel-budget-expense-splitting-app)
 - Layla: [layla.ai](https://layla.ai/)
 - Splitwise: [App Store listing](https://apps.apple.com/us/app/splitwise/id458023433)
 - Tricount: [App Store listing](https://apps.apple.com/app/tricount/id349866256)
 
 ---
 
-*Written by PlanVIA team* [нужен реальный автор с одной строкой био]. *Updated: 28 October 2026.*
+*Written by* [проверить вручную: имя автора и одна строка био; plan/questions.md п. 11]. *Updated: 30 October 2026.*
+
+---
+
+## Changelog 2026-10-30
+
+Служебный раздел, на страницу не переносится. Правки по отчёту `reports/fact-checks/2026-10-30-group-trip-planner-hub.md` (задача W2-03). «Фактчек №» — номер пункта в таблицах отчёта, «вопрос» — номер в `plan/questions.md`. Новых фактов не добавлено, `data/place-facts.csv` не менялся.
+
+**Внесено, как предлагает отчёт (fix)**
+
+1. Цены Plus убраны из FAQ «Is PlanVIA free?» (фактчек №51). Вернуть после W0-11, со ссылкой на /plus и датой проверки.
+2. Google Flights (фактчек №21, 23, 28): в ответе под «How far ahead…» сказано, что данные по вылетам из США, цифры даны по первоисточнику Google, 5 Oct 2026 (blog.google). Пункт списка переписан: «в низком диапазоне от 49 дней и больше, минимум около 90 дней; весенние каникулы около 50 дней (диапазон 29–64)». В Sources пересказы PPC Land и 9to5Google заменены на blog.google.
+3. Semana Santa (фактчек №15): совет про четверг–воскресенье теперь только про Андалусию, для остальной Испании «check your region's calendar first». Предложение про Каталонию и Валенсию не добавлял: оно держится на СМИ, а приложение к BOE не открывали.
+4. Кошелёк билетов (фактчек №49): убраны намёки, что друзья видят билеты. В списке «What you get» и в таблице приложений формулировки теперь про «tickets in one place, not scattered across inboxes».
+5. Пена (фактчек №9): пропущенный сеанс нельзя ни вернуть, ни перенести. Переписан ответ в FAQ «What if someone drops out?». Ту же оговорку добавил в абзац про Пену в «How far ahead…», иначе две части страницы противоречили бы друг другу (это мой шаг сверх отчёта, без новых фактов).
+6. Wanderlog в Sources (фактчек №40): витрина Омана заменена на App Store US и wanderlog.com (budget and expense splitting).
+7. Фраза «Each trip below has its own estimate, checked against official prices…» удалена (фактчек №59): в таблице нет заполненных строк.
+
+**Удалено по запасному варианту отчёта (источник не открывался)**
+
+8. Дни закрытия Torre de Belém: понедельники и 1 янв, Пасхальное воскресенье, 1 мая, 13 июня, 25 дек (фактчек №11), закрытие 28 марта (№16) и 13 июня (№20). В абзаце про Belém осталось только «visits are booked for a date and time» с ссылкой на Turismo de Lisboa (фактчек №10, pass). Ссылка на Turismo de Lisboa убрана из колонки Source строки Semana Santa.
+9. «Good Friday (26 March) is a national holiday in Spain» (фактчек №14) и вместе с ним Garrigues: ссылка в таблице дат и строка в Sources (фактчек №29). Строка про Андалусию по BOJA остаётся.
+
+**Пометка снята, потому что отчёт признал утверждение верным**
+
+10. Список городов с готовыми планами в FAQ «Which cities can I plan with PlanVIA?» (фактчек №54). Список городов не добавлял.
+
+**Добавлено по рекомендации отчёта**
+
+11. В строку Ночи святого Антония добавлена вторая ссылка Turismo de Lisboa (фактчек №18), она же попала в Sources.
+12. Даты проверки «Checked» в таблице дат, у Пены, у таблицы приложений и в Sources — 30 Oct 2026; «Updated» — 30 October 2026 (фактчек, раздел «Источник и дата у каждой цифры»).
+13. В строке 12–13 июня, где пропало закрытие Belém, добавлен совет «check it again before you book anything non-refundable»: это совет к фразе «programme to be confirmed», не новый факт.
+
+**Раскрытие партнёрских ссылок**
+
+14. В двух местах («What you get» и FAQ про бронирование) вставлен текст из вопроса 12: «Some links are partner links: if you book through them, PlanVIA earns a commission at no extra cost to you.» Стоит пометка «ждёт утверждения».
+
+**Оставлено заглушками, ждут Ярослава (в тексте 14 пометок «проверить вручную» и 2 «ждёт утверждения»)**
+
+| Что | Где | Сколько | Вопрос |
+|---|---|---|---|
+| Как работает ссылка на план: просмотр или копирование, нужен ли вход | блок «What stays outside PlanVIA», FAQ «How do I share…» | 2 | вопрос 2 |
+| Реальный автор и одна строка био | front matter и подпись внизу | 2 | вопрос 11 |
+| Ссылки на планы Lisbon и Porto из каталога | две ячейки таблицы, блок «Copy this itinerary» | 3 | вопрос 6 (и вопрос 2, W2-02 для «без регистрации») |
+| Текст раскрытия партнёрских ссылок | «What you get», FAQ про бронирование | 2 (ждёт утверждения) | вопрос 12 |
+| Стоимость поездки по городам: вилка в ответе под H2, цена и главная статья расходов для Lisbon и Porto | H2 «How much does a 3-day trip…», таблица | 5 | отдельного вопроса нет; зависит от проверенных страниц городов (W2-05) и вопроса 6 |
+| Цитата практика и его имя | блок после таблицы приложений | 2 | отдельного вопроса нет; нужен outreach с «да» Ярослава |
+
+Кроме них остались две заглушки в угловых скобках для ссылки «Create a trip» (после вступления и в финале): адрес страницы создания поездки у координатора.
+
+**Зависит от ответа на вопрос 2, но без пометки в тексте** (отчёт, фактчек №45). Если вход нужен или ссылка не только для просмотра, поправить: вступление («drops the link in the group chat, so all six of you are looking at the same Saturday»), шаг 4 в «How do you plan a trip with friends…», пункт «A link to share the plan», строку «Editing together» в таблице приложений. Если ссылка открывается без входа и только для просмотра, оба места с пометкой можно оставить как есть. Формулировки на случай «нужен вход» — в отчёте, фактчек №45.
+
+**Для координатора**
+
+- Для вопроса 2 стоит добавить подвопрос из отчёта: виден ли друзьям по ссылке кошелёк билетов.
+- В `plan/questions.md` нет вопросов про стоимость поездки по городам и про цитату практика.
+- В `data/place-facts.csv` строки 60–61 (checked_by=writer, 30.10, другой поток, страница Lisbon) пишут, что museusemonumentos.pt подтверждает дни закрытия Torre de Belém. Фактчекер эти строки не проверял, поэтому в хаб я их не взял. Если фактчекер подтвердит, фразу про закрытие Belém можно вернуть с официальным источником.

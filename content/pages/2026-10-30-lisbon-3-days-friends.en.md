@@ -60,10 +60,11 @@ About €295 per person, excluding flights and the apartment, for 3 nights and 3
 **Notes on the table**
 
 - **Group size changes only the apartment.** Every other line is per person and the same for 4 or 6. If one of you is 24 or younger, Jerónimos and Belém Tower are half price for ages 13 to 24.
+- **What the 24h ticket covers.** The ticket is called "Bilhete 24h CARRIS/Metro". Whether it is valid on trams and on the Graça funicular: [проверить вручную]. The table assumes it is not valid on the funicular and adds the €4.30 fare.
 - **Weekday lunches.** The €18.50 set lunch (main course, drinks and coffee) runs Monday to Friday, excluding public holidays, for groups of up to 8. On weekends budget the same by hand.
 - **Airport to the apartment.** The Red line starts at Aeroporto (station open 06:30–01:00, trains every 6 to 10 minutes on weekdays). For Baixa-Chiado change at Alameda to the Green line. A 24h ticket validated at the airport covers the ride; a single ticket is €1.90. Since 15 October 2026 taxis from the airport have fixed fares to central parishes such as Santa Maria Maior and Misericórdia: €19 by day, €23 at night, on weekends and on holidays [проверить вручную: reported by the press, not by the city]. A standard cab usually seats four, so 4 friends pay about €4.75 each in one cab and 6 friends about €6.33 each in two. Ride-hail apps are not on the fixed fare.
 - **Metro works.** For the future Circular line, the Green line closed between Rossio and Cais do Sodré on 2–5 May 2026 and Cais do Sodré station closed on 8–26 August 2026. Check [metrolisboa.pt](https://www.metrolisboa.pt/) for your dates.
-- **Lisboa Card.** The 72h card costs €62 (24h €31, 48h €51), valid for prices until 31 March 2027, so a May 2027 trip may see a new price. Pay as you go, the castle, Jerónimos, Belém Tower and three 24h tickets come to €71.75, so the card is about €10 cheaper if all three of you use every item. Jerónimos and Belém Tower still need a booked time slot, and Pena Palace is discounted, not free. Whether the card includes the Sintra and Cascais trains: [проверить вручную]. Source: [Lisboa Card prices](https://www.lisboacard.org/prices/), [Turismo de Lisboa shop](https://shop.visitlisboa.com/collections/tourist-cards/products/lisboa-card).
+- **Lisboa Card.** The 72h card costs €62 (24h €31, 48h €51), and these prices are valid until 31 March 2027, so a May 2027 trip may see a new price. Pay as you go, the castle, Jerónimos, Belém Tower and three 24h tickets come to €71.75, so the card is about €10 cheaper if you do all three sights. Jerónimos and Belém Tower still need a booked time slot, and Pena Palace is discounted, not free. Whether the card includes the Sintra and Cascais trains: [проверить вручную]. Source: [Lisboa Card prices](https://www.lisboacard.org/prices/), [Turismo de Lisboa shop](https://shop.visitlisboa.com/collections/tourist-cards/products/lisboa-card).
 - **Shared costs.** Put the apartment and group dinners into Splitwise or Tricount, both free. PlanVIA does not track who paid.
 
 All prices are 2026 tariffs, checked on 30 Oct 2026. Re-check in March 2027.
@@ -77,7 +78,7 @@ Stay between Rossio and Cais do Sodré, because day 3 starts at one of them: Sin
 - **Chiado and Bairro Alto.** The Santa Justa and Glória lifts used to be the shortcut up from Baixa and Restauradores. Both are closed, so count the uphill with suitcases, or take bus 51E for Glória.
 - **Alfama.** Next to the castle and the Graça funicular, uphill from the river with no lift shortcut.
 
-Search by bedrooms, not by guests: "sleeps 6" often means a sofa bed, and the friend on it is the one who doesn't come to dinner.
+Search by bedrooms, not by guests: "sleeps 6" often means a sofa bed, and whoever gets it will remember that longer than the dinner.
 
 Sources: [CP, Cascais line timetable](https://www.cp.pt/info/documents/d/cp/cascais-fds-6-abril) (valid from 6 April 2026), [Lisbon municipality](https://informacao.lisboa.pt/en/news/detail/tourist-tax-on-overnight-stays-rises-to-4-euros). Checked: Oct 2026.
 
@@ -104,7 +105,7 @@ Sources: [Carris, funiculars](https://www.carris.pt/descubra/frota/funciulares/)
 Up by funicular, down on foot. The castle is €17 per adult (€8.50 for ages 13–25), open 09:00–21:00 from March to October with last entry at 20:30, and closed on 1 May.
 
 1. **Morning: Mouraria to Graça.** Take the Graça funicular from Rua dos Lagares up to Largo da Graça (07:00–21:00, 14 people per trip). If it is shut, take tram 28E from Martim Moniz. The Graça viewpoint is the first stop.
-2. **Midday: Castelo de São Jorge.** Buy tickets online on the castle's own platform, [castelodesaojorge.bol.pt](https://CasteloSaoJorge.bol.pt/), or at the ticket office. If you would rather walk up from Baixa, the castle's site lists two routes with municipal lifts: the Castelo lift (Rua dos Fanqueiros 176 to Rua da Madalena) and the Chão do Loureiro car-park lift.
+2. **Midday: Castelo de São Jorge.** Buy tickets online on the castle's own platform, [CasteloSaoJorge.bol.pt](https://CasteloSaoJorge.bol.pt/), or at the ticket office. If you would rather walk up from Baixa, the castle's site lists two routes with municipal lifts: the Castelo lift (Rua dos Fanqueiros 176 to Rua da Madalena) and the Chão do Loureiro car-park lift.
 3. **Afternoon: down through Alfama to Baixa.** All downhill, so nobody needs a lift. Walking time from Graça to the castle to Baixa: [проверить вручную: по карте PlanVIA или OpenStreetMap, © OpenStreetMap].
 4. **Evening: Bairro Alto or Cais do Sodré.** Pick the area closest to where you sleep, so the friend who leaves at 23:00 can walk home. For a fado dinner, [Adega Machado](https://www.adegamachado.pt/en/gastronomia/) in Bairro Alto serves a €72 tasting menu (wine pairing +€30), with the kitchen open from 19:00 and live fado from 20:30. It is open daily, tables are few and evenings fill up well in advance, and group rules are not published: write or call before you tell the group chat it's booked.
 
@@ -116,7 +117,7 @@ Sources: [Castelo de São Jorge, tickets](https://castelodesaojorge.pt/en/plan-y
 
 Jerónimos Monastery (€18) and Belém Tower (€15) cost €33 together and both are closed on Mondays. They open Tuesday to Sunday 09:30–17:30, and also close on 1 January, Easter Sunday, 1 May, 13 June and 25 December. If your day 1 is a Sunday, swap days 2 and 3.
 
-1. **Getting there.** Tram 15E runs from Praça da Figueira through Cais do Sodré and Alcântara to Belém, with a stop at Mosteiro dos Jerónimos (€3.30 on board, or covered by a 24h ticket). The train from Cais do Sodré to Belém takes 8 minutes.
+1. **Getting there.** Tram 15E runs from Praça da Figueira through Cais do Sodré and Alcântara to Belém, with a stop at Mosteiro dos Jerónimos (€3.30 on board; whether the 24h ticket covers it: [проверить вручную]). The train from Cais do Sodré to Belém takes 8 minutes.
 2. **Morning: Jerónimos.** The cloister is open 09:30–17:30 with last entry at 17:00. The church is open Tuesday to Saturday 10:30–17:00 and, on Sundays and religious holidays, 14:00–17:00. The ticket office closes at 16:30.
 3. **Belém Tower.** It reopened on 27 May 2026 after a year of restoration, and visits now run by time slot. The press reports 60 entries every 30 minutes and 900 visitors a day [проверить вручную]. Book a slot for the whole group in one order.
 4. **Pastéis de Belém.** €1.60 per pastry, €9.60 for six, espresso €1.20 (menu page without a date, so confirm at the counter).
@@ -145,13 +146,13 @@ About 70% of the programme is shared and about 30% each person spends as they li
 - **Carcavelos.** Train from Cais do Sodré, get off at Carcavelos station and walk to the beach. It has a restaurant, a bar and a windsurfing school. Train fare: [проверить вручную]. Lifeguard season dates for May and June: [проверить вручную].
 - **Cascais.** One more stop along the same line, 40 minutes from Cais do Sodré.
 
-**Dinner together,** back in Lisbon. Sintra, Carcavelos and Cascais are all on lines that end in Lisbon, so agree the train home, not a meeting time at the beach.
+**Dinner together,** back in Lisbon. Agree the train home before you split up, not a meeting time at the beach or in the palace gardens.
 
 Sources: [Parques de Sintra, prices](https://www.parquesdesintra.pt/en/plan-your-visit/opening-times-and-prices/), [Pena tickets](https://www.parquesdesintra.pt/en/plan-your-visit/new-tickets-pnp/), [Pena ticket conditions](https://bilheteira.parquesdesintra.pt/info/parque-e-palacio-da-pena/1202/en), [CP, Cascais line timetable](https://www.cp.pt/info/documents/d/cp/cascais-fds-6-abril) and [weekday timetable](https://www.cp.pt/info/documents/d/cp/comboios-urbanos-lisboa-cascais-1), [CP, Train&Bus](https://www.cp.pt/info/en/w/ticket-train-bus), [Cascais municipality, Carcavelos](https://www.cascais.pt/en/equipamento/carcavelos-beach), [RTP, 8 Jul 2026 (media)](https://www.rtp.pt/noticias/pais/sintra-novas-regras-para-a-circulacao-automovel-e-pedonal-a-partir-de-hoje-e-durante-o-verao_n1752079), [Discover Portugal (train fare and time, secondary)](https://www.discover-portugal.com/lisbon-sintra-by-train/), [Sintra Portugal (bus 434, secondary)](https://www.sintra-portugal.com/pt/Sintra-Autocarro-434-Turistas-pt.html). Checked: Oct 2026.
 
 ## When is the best time for a group trip to Lisbon in 2027?
 
-Mid-May to mid-June. At the airport weather station, average daily highs are 22.8 °C in May and 26.1 °C in June, with 5.7 and 2.0 days of rain of 1 mm or more. July and August average 28.3 and 29.0 °C with almost no rain (0.4 and 1.0 days), so afternoons on the Alfama hills are hotter than the average suggests, and NOS Alive fills Algés on 8–10 July. We have no verified crowd numbers, so the dates below are the only hard signals.
+Mid-May to mid-June. At the airport weather station, average daily highs are 22.8 °C in May and 26.1 °C in June, with 5.7 and 2.0 days of rain of 1 mm or more. July and August average 28.3 and 29.0 °C with almost no rain (0.4 and 1.0 days), and NOS Alive fills Algés on 8–10 July.
 
 | Month, airport station (1991–2020) | Mar | Apr | May | Jun | Jul | Aug |
 |---|---|---|---|---|---|---|
@@ -159,6 +160,8 @@ Mid-May to mid-June. At the airport weather station, average daily highs are 22.
 | Days with rain ≥ 1 mm | 7.2 | 7.7 | 5.7 | 2.0 | 0.4 | 1.0 |
 
 Source: [IPMA, Lisboa/Gago Coutinho climate normals 1991–2020](https://www.ipma.pt/bin/file.data/climate-normal/cn_91-20_LISBOA_GAGO_COUTINHO.pdf). Checked: Oct 2026.
+
+Average highs hide hot days, so put the hill walks in the morning from June on. We have no verified crowd numbers, so the dates below are the only hard signals.
 
 **Dates that change plans in 2027**
 
@@ -175,7 +178,7 @@ Source: [IPMA, Lisboa/Gago Coutinho climate normals 1991–2020](https://www.ipm
 
 ## What do friends flying in from the UK need to know about border checks in 2027?
 
-Only friends with non-EU passports (a UK passport, for example) are registered in the EU Entry/Exit System, which has been fully operational since 10 April 2026: passport scan, a face image and fingerprints at the first crossing. ETIAS is not in operation and has no start date (European Commission, checked 28 Oct 2026), so the €20 fee, which under-18s and over-70s don't pay, does not apply to a spring 2027 trip yet. In a mixed group, friends with EU passports clear the border first: agree a meeting point after passport control. More in [/travel-alerts](/travel-alerts) [страница ещё не опубликована, W2-03].
+Only friends with non-EU passports (a UK passport, for example) are registered in the EU Entry/Exit System, which has been fully operational since 10 April 2026: passport scan, a face image and fingerprints at the first crossing. ETIAS is not in operation and has no start date (European Commission, checked 28 Oct 2026); the EU promises several months' notice, so check again when you book. Once it starts it costs €20 per person, and under-18s and over-70s don't pay. In a mixed group, friends with EU passports clear the border first: agree a meeting point after passport control. More in [/travel-alerts](/travel-alerts) [страница ещё не опубликована, W2-03].
 
 Sources: [European Commission, EES](https://home-affairs.ec.europa.eu/policies/schengen/smart-borders/entry-exit-system_en), [ETIAS](https://home-affairs.ec.europa.eu/policies/schengen/smart-borders/european-travel-information-authorisation-system_en). Fact-checked: 28 Oct 2026 (`reports/fact-checks/2026-10-29-travel-alerts.md`).
 
