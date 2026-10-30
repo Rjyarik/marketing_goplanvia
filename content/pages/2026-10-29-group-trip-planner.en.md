@@ -8,7 +8,7 @@ url: /group-trip-planner
 updated: 2026-10-30
 author: "Ere Jotta"  # чек-лист п. 6
 author_bio: "[био: ждёт Ярослава]"
-status: draft v3, ответы Ярослава от 2026-10-30 внесены (цены Plus, групповые функции, автор, план Португалии, аудитория только Европа); ждёт повторного фактчека
+status: draft v3, ответы Ярослава от 2026-10-30 внесены (цены Plus, групповые функции, автор, план Португалии, аудитория только Европа); ждёт повторного фактчека; строка Lisbon и подпись ссылки на план обновлены 30.10 (Changelog 2026-10-30 (3))
 brief: research/briefs/2026-10-29-friends-trip-planner-hub.en.md
 backlog: W2-03
 ---
@@ -17,11 +17,11 @@ backlog: W2-03
 Пометки для координатора и фактчекера (на странице не публикуются):
 1. Адрес — /group-trip-planner (не /plan/...: путь занят маршрутом /plan/:tripId).
 2. goplanvia.com из среды агента не открывается (403 прокси, проверено 30.10). Факты о продукте взяты из задачи координатора и CLAUDE.md. Цены Plus возвращены 30.10 (фактчек №51 закрыт): проверено координатором на goplanvia.com/plus 30.10.2026, сам я страницу не открывал. Групповые функции — со слов Ярослава 30.10 (plan/questions.md п. 2), публичного URL у них нет.
-3. Таблица «Ready-made trips with friends»: по брифу в неё идут только строки с опубликованными проверенными страницами городов. Сейчас таких страниц 0 — цены и главная статья расходов остаются заглушками, публиковать без цифр нельзя. Ссылка на план в обеих строках — один общий план «Португалия, Лиссабон + Порту» (ответ Ярослава 30.10). Совпадают ли его дни с 3 днями Lisbon и 4 днями Porto и открывается ли он без регистрации, я не проверял: страница из среды агента не открывается.
+3. Таблица «Ready-made trips with friends»: по брифу в неё идут только строки с опубликованными проверенными страницами городов. Опубликованных страниц городов пока 0; строка Porto остаётся заглушкой, публиковать без цифр нельзя. Строка Lisbon заполнена 30.10 по указанию координатора из черновика страницы Lisbon: ~€190 на человека за 3 дня без жилья, перелётов, ужинов и баров. Страница Lisbon ещё не опубликована, её адрес /itineraries/3-days-in-lisbon-with-friends ждёт подтверждения (ссылка-источник в строке стоит на него). Ссылка на план в обеих строках — один общий план «Португалия, Лиссабон + Порту» (ответ Ярослава 30.10). Координатор открыл его 30.10: длинный (9+ дней: Лиссабон, Синтра, Кашкайш, затем Порту), открывается по ссылке.
 4. В тексте нет «split the budget», «track who owes what», «invite your group», «agree in one evening». «Vote», «invite your friends», «chat with your group» с 30.10 можно (CLAUDE.md). Про редактирование нескольких людей одновременно (в реальном времени) у PlanVIA ничего не утверждаю: Ярослав сказал только, что владелец даёт право редактировать. Общий бюджет, деление расходов и личный кошелёк билетов не обещаю нигде.
 5. Все факты с источниками — в data/place-facts.csv (checked_at 2026-10-28, перепроверено фактчекером 2026-10-30). Данные Google Flights и Expedia (вылеты из США, бронирования Expedia.com) убраны из текста 30.10: аудитория только Европа. Европейского официального источника со сроками покупки авиабилетов и датой не нашёл (поиск 30.10: блоги продавцов и СМИ, не первоисточники), поэтому совет без цифр.
 6. Правки фактчекера от 2026-10-30 внесены, список — в разделе «Changelog 2026-10-30» в конце файла. Заглушки, которые ещё ждут, стоят в квадратных скобках.
-7. Правки по ответам Ярослава от 30.10 — в разделе «Changelog 2026-10-30 (2)» в конце файла.
+7. Правки по ответам Ярослава от 30.10 и по указаниям координатора — в разделах «Changelog 2026-10-30 (2)» и «(3)» в конце файла.
 -->
 
 # AI trip planner for friends
@@ -66,7 +66,7 @@ PlanVIA's AI builds a day-by-day itinerary with a map and real places for 100+ d
 
 ## How much does a 3-day trip with friends in Europe cost per person?
 
-For 4 friends sharing one apartment, 3 days in Europe cost [€… – €… per person, excluding flights — проверить вручную: вилка из проверенных страниц Lisbon и Porto, W2-05].
+In Lisbon, 3 days with friends cost about €190 per person, without the apartment, flights, dinners and evening drinks (source: [3 days in Lisbon with friends](/itineraries/3-days-in-lisbon-with-friends), prices checked 30 Oct 2026). For Porto the figure is still being checked [€… per person — проверить вручную: страница Porto, W2-05].
 
 ### Ready-made trips with friends
 
@@ -74,12 +74,12 @@ For 4 friends sharing one apartment, 3 days in Europe cost [€… – €… pe
 
 | City | Days | Built for | Est. per person, excl. flights | Biggest cost item | Checked | Copy this itinerary |
 |---|---|---|---|---|---|---|
-| Lisbon | 3 | 4–6 friends | €… [проверить вручную: страница Lisbon, W2-05] | … [проверить вручную: страница Lisbon, W2-05] | — | [Portugal: Lisbon + Porto](https://goplanvia.com/plan/70033101-2bc4-4b89-9354-d86b5b9079f0) |
-| Porto, Semana Santa | 4 | 4–6 friends | €… [проверить вручную: страница Porto, W2-05] | … [проверить вручную: страница Porto, W2-05] | — | [Portugal: Lisbon + Porto](https://goplanvia.com/plan/70033101-2bc4-4b89-9354-d86b5b9079f0) |
+| Lisbon | 3 | 4–6 friends | ~€190, without the apartment, dinners and drinks ([source: Lisbon page](/itineraries/3-days-in-lisbon-with-friends)) | Lunches and coffee, ~€64 (the biggest priced line; the apartment is not priced) | 30 Oct 2026 | [Copy our Portugal plan (Lisbon + Porto)](https://goplanvia.com/plan/70033101-2bc4-4b89-9354-d86b5b9079f0) and keep the 3 days that fit your group |
+| Porto, Semana Santa | 4 | 4–6 friends | €… [проверить вручную: страница Porto, W2-05] | … [проверить вручную: страница Porto, W2-05] | — | [Copy our Portugal plan (Lisbon + Porto)](https://goplanvia.com/plan/70033101-2bc4-4b89-9354-d86b5b9079f0) and keep the days that fit your group |
 
-Per person, for a group of 4 in one apartment. Prices come from each city page, where every line has its source.
+Per person. The Lisbon figure leaves out the apartment, flights, dinners and evening drinks, so it is the same for 4 or 6 friends. Prices come from each city page, where every line has its source.
 
-Both rows open the same ready-made plan, Portugal: Lisbon + Porto. Copy it and keep the city and the days you need.
+Both rows open the same Portugal plan (Lisbon + Porto), which runs longer than either row. Copy it and keep the days you need.
 
 **One line you can already price: Pena Palace in Sintra.** The Essential visit (palace and park) is €20 per adult and the Full Tour is €45, so palace tickets for 4 friends cost €80–€180. Not everyone has to go inside: the park-only ticket is €12, and half the group can meet the others at the gate. Source: [Parques de Sintra, opening times and prices](https://www.parquesdesintra.pt/en/plan-your-visit/opening-times-and-prices/). Checked: 30 Oct 2026.
 
@@ -167,7 +167,7 @@ Agree the dropout rule together with the cap, before anything is booked. For exa
 
 ---
 
-**Copy this itinerary:** [Portugal: Lisbon + Porto](https://goplanvia.com/plan/70033101-2bc4-4b89-9354-d86b5b9079f0), a ready-made plan in PlanVIA. Copy it, change the days for your group and send the link to your friends.
+**Copy this itinerary:** [Copy our Portugal plan (Lisbon + Porto)](https://goplanvia.com/plan/70033101-2bc4-4b89-9354-d86b5b9079f0) and keep the 3 days that fit your group. Then send the link to your friends.
 
 Or **[create a trip](/ai-planner)** for your own city and share the plan with your group.
 
@@ -178,7 +178,7 @@ Checked: 30 Oct 2026.
 - Parques de Sintra: [opening times and prices](https://www.parquesdesintra.pt/en/plan-your-visit/opening-times-and-prices/), [Pena: entry with booked date and time](https://www.parquesdesintra.pt/en/plan-your-visit/new-tickets-pnp/), [Pena ticket conditions](https://bilheteira.parquesdesintra.pt/info/parque-e-palacio-da-pena/1202/en), [Pena ticket shop](https://bilheteira.parquesdesintra.pt/evento/parque-e-palacio-nacional-da-pena/263/en)
 - Turismo de Lisboa: [Belém Tower](https://www.visitlisboa.com/pt-pt/locais/torre-de-belem), [Lisbon Festivities](https://www.visitlisboa.com/en/events/lisbon-festivities-1), [St Anthony's night](https://www.visitlisboa.com/en/events/st-anthonys-night-12-13th-june)
 - Junta de Andalucía: [Decreto 84/2026, 2027 holiday calendar, BOJA no. 84](https://www.juntadeandalucia.es/eboja/2026/84/BOJA26-084-00002-5812-01_00337048.pdf)
-- PlanVIA: [PlanVIA Plus, prices](https://goplanvia.com/plus)
+- PlanVIA: [PlanVIA Plus, prices](https://goplanvia.com/plus), [3 days in Lisbon with friends](/itineraries/3-days-in-lisbon-with-friends) (our page; prices checked 30 Oct 2026)
 - Wanderlog: [App Store listing](https://apps.apple.com/us/app/wanderlog/id1476732439), [budget and expense splitting](https://wanderlog.com/travel-budget-expense-splitting-app)
 - Layla: [layla.ai](https://layla.ai/)
 - Splitwise: [App Store listing](https://apps.apple.com/us/app/splitwise/id458023433)
@@ -271,3 +271,15 @@ Checked: 30 Oct 2026.
 - Что именно голосуют участники: места, даты, что-то ещё? Страница говорит только «votes».
 - Нужен ли Plus участникам или только владельцу? Страница этого не утверждает.
 - Сколько планов бесплатно (вопрос 1)? Страница лимит не называет, FAQ «Is PlanVIA free?» говорит только «free to start».
+
+## Changelog 2026-10-30 (3): указания координатора
+
+Служебный раздел, на страницу не переносится. Правки по сообщению координатора после фактчека страницы Lisbon (итог Lisbon пересчитан с ~€295 до ~€190, расчёт в комментарии вверху файла `2026-10-30-lisbon-3-days-friends.en.md`, п. 9).
+
+1. Строка Lisbon в таблице «Ready-made trips with friends» заполнена из страницы Lisbon: ~€190 на человека за 3 дня без жилья, перелётов, ужинов и баров; самая крупная оценённая строка — обеды и кофе (~€64), жильё не оценено; Checked: 30 Oct 2026; источник — ссылка на страницу Lisbon. Страница ещё не опубликована, адрес ждёт подтверждения: если он изменится, поправить три ссылки (строка таблицы, ответ под H2, Sources).
+2. Ответ под H2 «How much does a 3-day trip…»: часть про Lisbon заполнена теми же цифрами, часть про Porto осталась заглушкой (диапазон по двум городам собрать пока нельзя).
+3. Подпись ссылки на план приведена к виду на странице Lisbon: «Copy our Portugal plan (Lisbon + Porto) and keep the 3 days that fit your group» (строка Lisbon и финал), для строки Porto — «…and keep the days that fit your group», потому что там 4 дня. Под таблицей сказано, что оба ряда ведут на один план, он длиннее обоих рядов.
+4. Комментарий «содержимое плана не проверено» убран: координатор открыл план 30.10 (длинный, 9+ дней: Лиссабон, Синтра, Кашкайш, затем Порту; открывается по ссылке). Вопрос «совпадают ли дни плана…» из раздела «Вопросы к координатору» выше закрыт.
+5. Текст про 4 друзей «in one apartment» под таблицей заменён: цифра Lisbon без жилья, поэтому не зависит от группы 4 или 6.
+
+**Осталось в тексте страницы:** 5 пометок «проверить вручную» (ответ под H2 про Porto: 1; цена и главная статья расходов для Porto: 2; цитата практика и имя: 2), 2 пометки «ждёт утверждения» (раскрытие партнёрских ссылок, вопрос 12) и «[био: ждёт Ярослава]».

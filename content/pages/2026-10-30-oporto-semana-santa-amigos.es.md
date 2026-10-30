@@ -8,7 +8,7 @@ url: /es/itineraries/semana-santa-oporto-amigos  # структуру ES-адр�
 updated: 2026-10-30
 author: "Ere Jotta"
 author_bio: "[био: ждёт Ярослава]"
-status: ЧАСТИЧНЫЙ черновик (начат), ждёт добивки фактов и фактчека; ответы Ярослава 30.10 внесены (автор, план Португалии, групповые функции, Plus)
+status: ЧАСТИЧНЫЙ черновик (начат), ждёт добивки фактов и фактчека; ответы Ярослава 30.10 внесены (автор, план Португалии, групповые функции, Plus); подпись ссылки на план выровнена по указанию координатора
 brief: research/briefs/2026-10-29-oporto-semana-santa-amigos.es.md
 backlog: W2-05
 ---
@@ -25,14 +25,14 @@ backlog: W2-05
 8. Климат Порто: удалось открыть только норму 1971–2000 (Porto/Serra do Pilar). Нужна норма 1991–2020 с ipma.pt.
 9. Не найдено: цена Livraria Lello (страница без цены), цены и праздничные часы погребов Гайи (Graham's, Taylor's, Cálem), Serralves и Palácio da Bolsa, расписание и цена Vigo–Porto, Madrid–Porto (авиа и автобус), тариф CP до Браги (PDF CP не открылся), зона аэропорта в Andante.
 10. Нет: снимка Booking/Airbnb на 25–28.03.2027.
-11. Ответы Ярослава 30.10 внесены: автор — Ere Jotta (био ждёт Ярослава); «Copia este itinerario» ведёт на общий план «Португалия, Лиссабон + Порту» https://goplanvia.com/plan/70033101-2bc4-4b89-9354-d86b5b9079f0; «Crea un viaje» ведёт на /ai-planner (адрес для испанской версии — по структуре языковых адресов, уточнить у разработчика); цены Plus и групповые функции — в новом разделе «¿Cómo organiza el grupo el viaje a Oporto dentro de PlanVIA?». Не проверено: совпадают ли дни плана с чт–вс 25–28 марта и Viernes Santo, открывается ли он без регистрации, показывается ли на испанском — goplanvia.com из среды агента не открывается (403). Поэтому в финале читателю сказано сверить дни плана с Viernes Santo, Domingo de Pascua и Брагой. Всё ещё нужна цитата практика. Факты о местах в этой правке не менялись.
+11. Ответы Ярослава 30.10 внесены: автор — Ere Jotta (био ждёт Ярослава); «Copia este itinerario» ведёт на общий план «Португалия, Лиссабон + Порту» https://goplanvia.com/plan/70033101-2bc4-4b89-9354-d86b5b9079f0; подпись ссылки — по указанию координатора: «Copia nuestro plan de Portugal (Lisboa + Oporto) y quédate con los días que encajan con tu grupo». Координатор открыл план 30.10: длинный (9+ дней: Лиссабон, Синтра, Кашкайш, затем Порту), открывается по ссылке. «Crea un viaje» ведёт на /ai-planner (адрес для испанской версии — по структуре языковых адресов, уточнить у разработчика); цены Plus и групповые функции — в разделе «¿Cómo organiza el grupo el viaje a Oporto dentro de PlanVIA?». Всё ещё нужна цитата практика. Факты о местах в этой правке не менялись.
 -->
 
 # Semana Santa en Oporto con amigos
 
-Del jueves 25 al domingo 28 de marzo de 2027, la Semana Santa en Oporto trae tres cosas que cambian el plan: el Viernes Santo es festivo en España y en Portugal, el Domingo de Pascua cierran sitios como la Livraria Lello y el Mercado do Bolhão, y esa misma noche cambia la hora. Esta ruta está pensada para 4 o 6 amigos que salen de Madrid, Galicia, Castilla y León o Andalucía. Puedes partir del plan ya hecho de Portugal (Lisboa y Oporto) en PlanVIA, el planificador de viajes en grupo con IA: cópialo y adáptalo a tu grupo.
+Del jueves 25 al domingo 28 de marzo de 2027, la Semana Santa en Oporto trae tres cosas que cambian el plan: el Viernes Santo es festivo en España y en Portugal, el Domingo de Pascua cierran sitios como la Livraria Lello y el Mercado do Bolhão, y esa misma noche cambia la hora. Esta ruta está pensada para 4 o 6 amigos que salen de Madrid, Galicia, Castilla y León o Andalucía. Puedes partir de nuestro plan de Portugal (Lisboa + Oporto) en PlanVIA, el planificador de viajes en grupo con IA: cópialo y quédate con los días que encajan con tu grupo.
 
-**Copia este itinerario:** [Portugal: Lisboa y Oporto](https://goplanvia.com/plan/70033101-2bc4-4b89-9354-d86b5b9079f0) · **[Crea un viaje](/ai-planner)**
+**Copia este itinerario:** [Copia nuestro plan de Portugal (Lisboa + Oporto)](https://goplanvia.com/plan/70033101-2bc4-4b89-9354-d86b5b9079f0) y quédate con los días que encajan con tu grupo · **[Crea un viaje](/ai-planner)**
 
 ## ¿Cuánto cuesta la Semana Santa en Oporto para 4 amigos?
 
@@ -149,7 +149,7 @@ Para viajar a Portugal desde España basta el DNI en vigor, y conviene llevar la
 
 ## ¿Cómo organiza el grupo el viaje a Oporto dentro de PlanVIA?
 
-Uno de vosotros copia el plan y manda el enlace a los otros cinco. Por defecto, quien abre el enlace solo puede ver el plan; para que un amigo lo edite, el propietario le da permiso y lo añade al viaje como participante. Los participantes tienen un chat del viaje, un lugar común para billetes y reservas, y votaciones.
+Uno de vosotros copia el plan, se queda con los días que necesitáis y manda el enlace a los otros cinco. Por defecto, quien abre el enlace solo puede ver el plan; para que un amigo lo edite, el propietario le da permiso y lo añade al viaje como participante. Los participantes tienen un chat del viaje, un lugar común para billetes y reservas, y votaciones.
 
 En este viaje:
 
@@ -161,7 +161,7 @@ Empezar es gratis. PlanVIA Plus añade planes ilimitados, conserje de IA sin lí
 
 ---
 
-**Copia este itinerario:** [Portugal: Lisboa y Oporto](https://goplanvia.com/plan/70033101-2bc4-4b89-9354-d86b5b9079f0), un plan ya hecho en PlanVIA que cubre las dos ciudades. Cópialo y ajusta sus días a esta ruta: el Viernes Santo, el Domingo de Pascua y la noche de Braga.
+**Copia este itinerario:** [Copia nuestro plan de Portugal (Lisboa + Oporto)](https://goplanvia.com/plan/70033101-2bc4-4b89-9354-d86b5b9079f0) y quédate con los días que encajan con tu grupo. Luego comprueba esos días con el Viernes Santo, el Domingo de Pascua y la noche de Braga.
 
 O **[crea un viaje](/ai-planner)** e invita a tus amigos.
 
@@ -189,3 +189,11 @@ PlanVIA es un planificador de viajes en grupo con IA: organiza un viaje con amig
 - Комментарий для координатора, п. 11, обновлён.
 
 **Осталось в тексте страницы:** 39 пометок «проверить вручную» (все про факты о местах: цены и расписания дороги из Испании, жильё, погреба Гайи, Lello, поезд в Брагу, программа процессий 2027, часы в праздники, норма климата 1991–2020, источники по праздникам в Испании и переводу часов, документы), плюс заглушка цитаты практика и «[био: ждёт Ярослава]». Фраза о продукте на испанском и первое упоминание «PlanVIA, el planificador…» ждут утверждения Ярослава (вопрос 10).
+
+**30.10.2026, указания координатора.** Факты о местах не менялись.
+
+- Подпись ссылки на план приведена к виду на странице Lisbon: «Copia nuestro plan de Portugal (Lisboa + Oporto) y quédate con los días que encajan con tu grupo» (вступление, верх страницы, финал). В финале оставлен совет сверить оставленные дни с Viernes Santo, Domingo de Pascua и Брагой.
+- Комментарий «содержимое плана не проверено» убран: координатор открыл план 30.10 (длинный, 9+ дней: Лиссабон, Синтра, Кашкайш, затем Порту; открывается по ссылке). Комментарий для координатора, п. 11, обновлён.
+- В разделе про групповые функции: «copia el plan, se queda con los días que necesitáis», потому что план длиннее поездки.
+
+**Осталось в тексте страницы:** без изменений, 39 пометок «проверить вручную» (все про факты о местах), плюс цитата практика и «[био: ждёт Ярослава]».
