@@ -115,7 +115,7 @@ Use PlanVIA for the itinerary, the map and bookings, Splitwise or Tricount for s
 | Editing together | One person edits; friends see the shared link | Wanderlog: "everyone can collaborate in real-time" | If several people add places at once, choose Wanderlog |
 | Splitting costs | No | Splitwise (free; Pro adds receipt scanning and currency conversion), Tricount (free, "no limit on tricounts or expenses"), Wanderlog (budget, expenses and bill splitting) | Money needs its own ledger: one app per trip, settled once at the end |
 | Group chat | No | WhatsApp or whatever your group already uses | Don't move the chat; send the plan link into it |
-| Offline | With PlanVIA Plus | Wanderlog stores plans offline in its app | Check this before a trip with patchy roaming |
+| Offline | With PlanVIA Plus | Wanderlog's sources disagree: the App Store listing says plans are stored offline, its help center lists offline download as a Pro feature ([help center](https://help.wanderlog.com/), checked 30 Oct 2026) | Check this before a trip with patchy roaming |
 | Tickets and bookings | Ticket wallet: PDFs and images | — | All the trip's tickets in one place, not scattered across inboxes |
 
 ### When to choose another tool instead
@@ -234,3 +234,4 @@ Checked: 30 Oct 2026.
 - В `plan/questions.md` нет вопросов про стоимость поездки по городам и про цитату практика.
 - В `data/place-facts.csv` строки 60–61 (checked_by=writer, 30.10, другой поток, страница Lisbon) пишут, что museusemonumentos.pt подтверждает дни закрытия Torre de Belém. Фактчекер эти строки не проверял, поэтому в хаб я их не взял. Если фактчекер подтвердит, фразу про закрытие Belém можно вернуть с официальным источником.
 - Ссылка «Create a trip» → /ai-planner (маршрут из src/App.tsx в Lovable, координатор, 30.10).
+- Строка Offline в таблице приложений: у Wanderlog источники противоречат (App Store vs справка, Pro) — data/place-facts.csv, offline_conflict (координатор, 30.10).
