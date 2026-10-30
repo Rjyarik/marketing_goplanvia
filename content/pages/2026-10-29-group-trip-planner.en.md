@@ -26,7 +26,7 @@ backlog: W2-03
 
 PlanVIA is an AI group trip planner: plan a trip with friends in minutes, with a day-by-day itinerary, a map and real places. It covers 100+ destinations and is free to start. One of you builds the plan or copies a ready-made one, then drops the link in the group chat, so all six of you are looking at the same Saturday.
 
-**[Create a trip](<ссылка на создание поездки: уточнить у координатора>)** · **[Browse ready-made trips](/plans)**
+**[Create a trip](/ai-planner)** · **[Browse ready-made trips](/plans)**
 
 ## How do you plan a trip with friends without the group chat taking over?
 
@@ -158,7 +158,7 @@ Agree the dropout rule together with the cap, before anything is booked. For exa
 
 **Copy this itinerary:** 3 days in Lisbon with friends: [проверить вручную: ссылка на план Lisbon из каталога, который открывается без регистрации; plan/questions.md п. 6 и п. 2, W2-02]
 
-Or **[create a trip](<ссылка на создание поездки: уточнить у координатора>)** for your own city and share the plan with your group.
+Or **[create a trip](/ai-planner)** for your own city and share the plan with your group.
 
 ### Sources
 
@@ -233,3 +233,4 @@ Checked: 30 Oct 2026.
 - Для вопроса 2 стоит добавить подвопрос из отчёта: виден ли друзьям по ссылке кошелёк билетов.
 - В `plan/questions.md` нет вопросов про стоимость поездки по городам и про цитату практика.
 - В `data/place-facts.csv` строки 60–61 (checked_by=writer, 30.10, другой поток, страница Lisbon) пишут, что museusemonumentos.pt подтверждает дни закрытия Torre de Belém. Фактчекер эти строки не проверял, поэтому в хаб я их не взял. Если фактчекер подтвердит, фразу про закрытие Belém можно вернуть с официальным источником.
+- Ссылка «Create a trip» → /ai-planner (маршрут из src/App.tsx в Lovable, координатор, 30.10).
