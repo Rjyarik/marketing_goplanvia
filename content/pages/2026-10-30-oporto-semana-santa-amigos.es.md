@@ -6,8 +6,9 @@ og_subtitle: "Ruta, mapa y costes para tu grupo"
 lang: es
 url: /es/itineraries/semana-santa-oporto-amigos  # структуру ES-адресов подтвердить у разработчика
 updated: 2026-10-30
-author: "[автор: ждёт ответа Ярослава]"
-status: ЧАСТИЧНЫЙ черновик (начат), ждёт добивки фактов и фактчека
+author: "Ere Jotta"
+author_bio: "[био: ждёт Ярослава]"
+status: ЧАСТИЧНЫЙ черновик (начат), ждёт добивки фактов и фактчека; ответы Ярослава 30.10 внесены (автор, план Португалии, групповые функции, Plus)
 brief: research/briefs/2026-10-29-oporto-semana-santa-amigos.es.md
 backlog: W2-05
 ---
@@ -24,14 +25,14 @@ backlog: W2-05
 8. Климат Порто: удалось открыть только норму 1971–2000 (Porto/Serra do Pilar). Нужна норма 1991–2020 с ipma.pt.
 9. Не найдено: цена Livraria Lello (страница без цены), цены и праздничные часы погребов Гайи (Graham's, Taylor's, Cálem), Serralves и Palácio da Bolsa, расписание и цена Vigo–Porto, Madrid–Porto (авиа и автобус), тариф CP до Браги (PDF CP не открылся), зона аэропорта в Andante.
 10. Нет: снимка Booking/Airbnb на 25–28.03.2027.
-11. Нужны: автор, цитата практика, ссылка на план «Oporto, 4 días» (чт–вс, Viernes Santo, Брага по желанию; интерфейс на испанском), ссылка на создание поездки.
+11. Ответы Ярослава 30.10 внесены: автор — Ere Jotta (био ждёт Ярослава); «Copia este itinerario» ведёт на общий план «Португалия, Лиссабон + Порту» https://goplanvia.com/plan/70033101-2bc4-4b89-9354-d86b5b9079f0; «Crea un viaje» ведёт на /ai-planner (адрес для испанской версии — по структуре языковых адресов, уточнить у разработчика); цены Plus и групповые функции — в новом разделе «¿Cómo organiza el grupo el viaje a Oporto dentro de PlanVIA?». Не проверено: совпадают ли дни плана с чт–вс 25–28 марта и Viernes Santo, открывается ли он без регистрации, показывается ли на испанском — goplanvia.com из среды агента не открывается (403). Поэтому в финале читателю сказано сверить дни плана с Viernes Santo, Domingo de Pascua и Брагой. Всё ещё нужна цитата практика. Факты о местах в этой правке не менялись.
 -->
 
 # Semana Santa en Oporto con amigos
 
-Del jueves 25 al domingo 28 de marzo de 2027, la Semana Santa en Oporto trae tres cosas que cambian el plan: el Viernes Santo es festivo en España y en Portugal, el Domingo de Pascua cierran sitios como la Livraria Lello y el Mercado do Bolhão, y esa misma noche cambia la hora. Esta ruta está pensada para 4 o 6 amigos que salen de Madrid, Galicia, Castilla y León o Andalucía. Puedes copiarla como plan en PlanVIA, el planificador de viajes en grupo con IA, y adaptarla a tu grupo.
+Del jueves 25 al domingo 28 de marzo de 2027, la Semana Santa en Oporto trae tres cosas que cambian el plan: el Viernes Santo es festivo en España y en Portugal, el Domingo de Pascua cierran sitios como la Livraria Lello y el Mercado do Bolhão, y esa misma noche cambia la hora. Esta ruta está pensada para 4 o 6 amigos que salen de Madrid, Galicia, Castilla y León o Andalucía. Puedes partir del plan ya hecho de Portugal (Lisboa y Oporto) en PlanVIA, el planificador de viajes en grupo con IA: cópialo y adáptalo a tu grupo.
 
-**Copia este itinerario:** <plan «Oporto, 4 días» del catálogo: уточнить у координатора> · **[Crea un viaje](<ссылка на создание поездки: уточнить у координатора>)**
+**Copia este itinerario:** [Portugal: Lisboa y Oporto](https://goplanvia.com/plan/70033101-2bc4-4b89-9354-d86b5b9079f0) · **[Crea un viaje](/ai-planner)**
 
 ## ¿Cuánto cuesta la Semana Santa en Oporto para 4 amigos?
 
@@ -146,11 +147,23 @@ Fuente: [IPMA, normales 1971–2000, Porto/Serra do Pilar](https://www.ipma.pt/b
 
 Para viajar a Portugal desde España basta el DNI en vigor, y conviene llevar la Tarjeta Sanitaria Europea [проверить вручную: exteriores.gob.es; seg-social.es]. Si alguien del grupo tiene pasaporte de fuera de la UE, que mire las reglas de entrada que le tocan según su caso: no las damos por resueltas en esta página.
 
+## ¿Cómo organiza el grupo el viaje a Oporto dentro de PlanVIA?
+
+Uno de vosotros copia el plan y manda el enlace a los otros cinco. Por defecto, quien abre el enlace solo puede ver el plan; para que un amigo lo edite, el propietario le da permiso y lo añade al viaje como participante. Los participantes tienen un chat del viaje, un lugar común para billetes y reservas, y votaciones.
+
+En este viaje:
+
+- **Reservas en un solo sitio.** La bodega de Gaia, la mesa del sábado y el billete del tren a Braga, si alguien va, se reservan antes del jueves (ver arriba). Dejad las confirmaciones en el lugar común del viaje y nadie tendrá que pedírselas al organizador.
+- **Votad el 70/30.** Quién va a Braga y quién se queda en Oporto se decide el miércoles: votadlo en el viaje, no entre los audios del grupo de WhatsApp.
+- **El dinero, fuera de PlanVIA.** PlanVIA no lleva las cuentas del grupo: para el coche, el apartamento y las cenas, usad una app aparte como Splitwise o Tricount.
+
+Empezar es gratis. PlanVIA Plus añade planes ilimitados, conserje de IA sin límites, exportación a PDF, modo sin conexión y generación prioritaria: 4,99 € al mes, 10,99 € por 3 meses o 29,99 € al año. Fuente: [goplanvia.com/plus](https://goplanvia.com/plus). Comprobado: 30 oct 2026.
+
 ---
 
-**Copia este itinerario:** Semana Santa en Oporto con amigos: <plan «Oporto, 4 días» del catálogo: уточнить у координатора>
+**Copia este itinerario:** [Portugal: Lisboa y Oporto](https://goplanvia.com/plan/70033101-2bc4-4b89-9354-d86b5b9079f0), un plan ya hecho en PlanVIA que cubre las dos ciudades. Cópialo y ajusta sus días a esta ruta: el Viernes Santo, el Domingo de Pascua y la noche de Braga.
 
-O **[crea un viaje](<ссылка на создание поездки: уточнить у координатора>)** y comparte el plan con tu grupo.
+O **[crea un viaje](/ai-planner)** e invita a tus amigos.
 
 PlanVIA es un planificador de viajes en grupo con IA: organiza un viaje con amigos en minutos, con un itinerario día a día, un mapa y lugares reales. <!-- фраза ждёт утверждения Ярослава (CLAUDE.md) -->
 
@@ -158,4 +171,4 @@ PlanVIA es un planificador de viajes en grupo con IA: organiza un viaje con amig
 
 ---
 
-*Escrito por [автор: ждёт ответа Ярослава]. Actualizado: 30 de octubre de 2026.*
+*Escrito por Ere Jotta [био: ждёт Ярослава]. Actualizado: 30 de octubre de 2026.*

@@ -6,8 +6,9 @@ og_subtitle: "Itinerary, map and costs for your group"
 lang: en
 url: /itineraries/3-days-in-lisbon-with-friends  # slug подтвердить у координатора
 updated: 2026-10-30
-author: "[автор: ждёт ответа Ярослава]"
-status: draft, ждёт фактчека
+author: "Ere Jotta"
+author_bio: "[био: ждёт Ярослава]"
+status: draft, ждёт фактчека; ответы Ярослава 30.10 внесены (автор, план Португалии, групповые функции, Plus)
 brief: research/briefs/2026-10-29-lisbon-3-days-friends.en.md
 backlog: W2-05
 ---
@@ -31,16 +32,16 @@ backlog: W2-05
 3. Расхождения источников: Castelo de São Jorge — на castelodesaojorge.pt взрослый €17, на visitlisboa.com €15 (устарело); взял официальный сайт.
 4. Подъёмники: статус на carris.pt от 30.10.2026. Graça закрыт на плановое обслуживание 26–31.10.2026 (год на странице не указан, предупреждение активно на странице линии 55E). Перепроверить перед публикацией и раз в месяц.
 5. Сознательно не использовано: Time Out Market (нет первоисточника часов); правило «Up by ride, down on foot» (нет проверенной цены XL-машины Bolt/Uber, в брифе это условие); названия конкурентов в разделе про подъёмники.
-6. В тексте нет «vote», «split the budget», «invite your group». Про деньги группы — только «Splitwise или Tricount», как в хабе.
+6. В тексте нет «split the budget», «track who owes what», «invite your group». Про деньги группы — только «Splitwise или Tricount», как в хабе. «Vote» с 30.10 можно (CLAUDE.md): использовано в новом разделе про групповые функции.
 7. Хаб /group-trip-planner: в хабе Torre de Belém и строка Lisbon ссылаются на данные 28.10 из visitlisboa.com. После этой страницы строку Lisbon можно заполнить (~€295 без квартиры и перелётов), а часы/цены Torre de Belém — взять с museusemonumentos.pt (data/place-facts.csv, 30.10.2026).
-8. Нужны: автор, цитата практика, ссылка на план «Lisbon, 3 days» из каталога (без закрытых подъёмников, Belém не в понедельник, день 3 на два маршрута), ссылка на создание поездки, раскрытие партнёрских ссылок (если добавим бронирование).
+8. Ответы Ярослава 30.10 внесены: автор — Ere Jotta (био ждёт Ярослава); «Copy this itinerary» ведёт на общий план «Португалия, Лиссабон + Порту» https://goplanvia.com/plan/70033101-2bc4-4b89-9354-d86b5b9079f0; «Create a trip» ведёт на /ai-planner; цены Plus и групповые функции — в новом разделе «How do six friends use this plan together in PlanVIA?». Не проверено: совпадают ли дни плана с маршрутом страницы (3 дня, без закрытых подъёмников, Belém не в понедельник, день 3 на два маршрута) и открывается ли он без регистрации — goplanvia.com из среды агента не открывается (403). Поэтому в финале читателю сказано сверить дни плана с подъёмниками и понедельниками. Всё ещё нужны: цитата практика, раскрытие партнёрских ссылок (если добавим бронирование). Факты о местах в этой правке не менялись.
 -->
 
 # 3 days in Lisbon with friends
 
-Three days in Lisbon cost about €295 per person for 4 or 6 friends before the apartment and flights, and the apartment is the only line that changes with group size. Of Lisbon's five historic lifts, only the Graça funicular is in regular service (carris.pt, 30 Oct 2026), so this route goes up by funicular and bus and comes down on foot. Day 3 splits the group between Sintra and the beach, and everyone meets again for dinner. Copy the whole route as a plan in PlanVIA, the AI group trip planner, and change it for your group.
+Three days in Lisbon cost about €295 per person for 4 or 6 friends before the apartment and flights, and the apartment is the only line that changes with group size. Of Lisbon's five historic lifts, only the Graça funicular is in regular service (carris.pt, 30 Oct 2026), so this route goes up by funicular and bus and comes down on foot. Day 3 splits the group between Sintra and the beach, and everyone meets again for dinner. Start from the ready-made Portugal plan (Lisbon and Porto) in PlanVIA, the AI group trip planner: copy it and change it for your group.
 
-**Copy this itinerary:** <план «Lisbon, 3 days» из каталога: уточнить у координатора> · **[Create a trip](<ссылка на создание поездки: уточнить у координатора>)**
+**Copy this itinerary:** [Portugal: Lisbon + Porto](https://goplanvia.com/plan/70033101-2bc4-4b89-9354-d86b5b9079f0) · **[Create a trip](/ai-planner)**
 
 ## How much do 3 days in Lisbon cost for 4 friends?
 
@@ -182,16 +183,45 @@ Only friends with non-EU passports (a UK passport, for example) are registered i
 
 Sources: [European Commission, EES](https://home-affairs.ec.europa.eu/policies/schengen/smart-borders/entry-exit-system_en), [ETIAS](https://home-affairs.ec.europa.eu/policies/schengen/smart-borders/european-travel-information-authorisation-system_en). Fact-checked: 28 Oct 2026 (`reports/fact-checks/2026-10-29-travel-alerts.md`).
 
+## How do six friends use this plan together in PlanVIA?
+
+One of you copies the plan and sends the link to the other five. A friend who opens the link can view the plan; to let someone edit it, the owner gives them that right and makes them a participant in the trip. Participants get a shared trip chat, a shared place for tickets and bookings, and votes.
+
+For this route that means:
+
+- **Bookings in one place.** The castle tickets, the Belém Tower slot, the Pena slot and the Adega Machado table are all booked ahead (see above). Put the confirmations in the trip's shared place for tickets and bookings.
+- **A vote for day 3.** Sintra or the beach is the one real decision of the trip. Settle it by vote the evening before, as the 70/30 rule suggests.
+- **Money stays outside.** PlanVIA doesn't track who paid for what: for the apartment and the dinners use Splitwise or Tricount, as above.
+
+Planning is free to start. PlanVIA Plus adds unlimited plans, an AI concierge without limits, PDF export, offline access and priority generation: €4.99 a month, €10.99 for 3 months or €29.99 a year. Source: [goplanvia.com/plus](https://goplanvia.com/plus). Checked: 30 Oct 2026.
+
 > «[цитата практика: найти]» — [имя, кто он: гид по Лиссабону, который водит группы, или организатор мальчишников и девичников в Лиссабоне]
 
 ---
 
-**Copy this itinerary:** 3 days in Lisbon with friends: <план «Lisbon, 3 days» из каталога: уточнить у координатора>
+**Copy this itinerary:** [Portugal: Lisbon + Porto](https://goplanvia.com/plan/70033101-2bc4-4b89-9354-d86b5b9079f0), a ready-made plan in PlanVIA that covers both cities. Copy it, then check its days against the lifts and the Monday closures above.
 
-Or **[create a trip](<ссылка на создание поездки: уточнить у координатора>)** and share the plan with your group.
+Or **[create a trip](/ai-planner)** and share the plan with your group.
 
 PlanVIA is an AI group trip planner: plan a trip with friends in minutes, with a day-by-day itinerary, a map and real places.
 
 ---
 
-*Written by [автор: ждёт ответа Ярослава]. Updated: 30 October 2026. Prices and opening times checked: 30 October 2026.*
+*Written by Ere Jotta [био: ждёт Ярослава]. Updated: 30 October 2026. Prices and opening times checked: 30 October 2026.*
+
+---
+
+## Changelog
+
+Служебный раздел, на страницу не переносится.
+
+**30.10.2026, ответы Ярослава** (plan/questions.md п. 2, 3, 6, 11; решение «аудитория только Европа»; CLAUDE.md обновлён). Факты о местах (цены, часы, подъёмники, праздники) не менялись: страницу проверяет фактчекер.
+
+- Автор: Ere Jotta в front matter и в подписи; био — «[био: ждёт Ярослава]».
+- Заглушки заменены ссылками: «Copy this itinerary» (вверху и в финале) → общий план «Португалия, Лиссабон + Порту»; «Create a trip» → /ai-planner. В финале прямо сказано сверить дни плана с подъёмниками и понедельниками: совпадение плана со страницей я не проверял (goplanvia.com из среды агента не открывается, 403).
+- Вступление: вместо «copy the whole route as a plan» — «start from the ready-made Portugal plan (Lisbon and Porto)», потому что в плане два города.
+- Новый раздел «How do six friends use this plan together in PlanVIA?»: просмотр по ссылке по умолчанию; право редактировать и роль участника даёт владелец; у участников общий чат, общее место для билетов и броней, голосования. Деньги — вне PlanVIA (Splitwise или Tricount, как в хабе). Общий бюджет, деление расходов и личный кошелёк не обещаю.
+- Цены Plus (€4.99 / €10.99 за 3 мес / €29.99 в год) в том же разделе, со ссылкой на goplanvia.com/plus и «Checked: 30 Oct 2026». Источник — проверка координатора 30.10; сам страницу не открывал.
+- Комментарий для координатора, п. 6 и п. 8, обновлён.
+
+**Осталось в тексте страницы:** 20 пометок «проверить вручную» (все про факты о местах, ждут фактчекера и первоисточников: цена квартиры и еды, поезд и автобус на Синтру и Карвакелуш, такси из аэропорта, часы LX Factory, лимит Torre de Belém, праздники, NOS Alive и Rock in Rio, время пешком), плюс заглушка цитаты практика и «[био: ждёт Ярослава]».

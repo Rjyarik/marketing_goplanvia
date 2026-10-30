@@ -6,8 +6,9 @@ og_subtitle: "Day-by-day itinerary, map and real places"
 lang: en
 url: /group-trip-planner
 updated: 2026-10-30
-author: "[проверить вручную: имя автора и одна строка био — plan/questions.md п. 11]"  # чек-лист п. 6
-status: draft v2, правки фактчекера от 2026-10-30 внесены; ждёт ответов Ярослава и повторного фактчека
+author: "Ere Jotta"  # чек-лист п. 6
+author_bio: "[био: ждёт Ярослава]"
+status: draft v3, ответы Ярослава от 2026-10-30 внесены (цены Plus, групповые функции, автор, план Португалии, аудитория только Европа); ждёт повторного фактчека
 brief: research/briefs/2026-10-29-friends-trip-planner-hub.en.md
 backlog: W2-03
 ---
@@ -15,16 +16,17 @@ backlog: W2-03
 <!--
 Пометки для координатора и фактчекера (на странице не публикуются):
 1. Адрес — /group-trip-planner (не /plan/...: путь занят маршрутом /plan/:tripId).
-2. goplanvia.com из среды агента не открывается (403 прокси). Факты о продукте взяты из задачи координатора и CLAUDE.md. Цены Plus убраны из текста (фактчек №51): вернуть после W0-11, со ссылкой на /plus и датой проверки.
-3. Таблица «Ready-made trips with friends»: по брифу в неё идут только строки с опубликованными проверенными страницами городов. Сейчас таких страниц 0 — строки-заготовки, публиковать без цифр нельзя.
-4. В тексте нет «vote», «split the budget», «invite your group», «agree in one evening». Про совместное редактирование — честно, что его нет.
-5. Все факты с источниками — в data/place-facts.csv (checked_at 2026-10-28, перепроверено фактчекером 2026-10-30; строки фактчекера по Google Flights заменяют строки 16–17).
-6. Правки фактчекера от 2026-10-30 внесены, список — в разделе «Changelog 2026-10-30» в конце файла. Заглушки, которые ждут Ярослава, стоят в квадратных скобках с номером вопроса из plan/questions.md.
+2. goplanvia.com из среды агента не открывается (403 прокси, проверено 30.10). Факты о продукте взяты из задачи координатора и CLAUDE.md. Цены Plus возвращены 30.10 (фактчек №51 закрыт): проверено координатором на goplanvia.com/plus 30.10.2026, сам я страницу не открывал. Групповые функции — со слов Ярослава 30.10 (plan/questions.md п. 2), публичного URL у них нет.
+3. Таблица «Ready-made trips with friends»: по брифу в неё идут только строки с опубликованными проверенными страницами городов. Сейчас таких страниц 0 — цены и главная статья расходов остаются заглушками, публиковать без цифр нельзя. Ссылка на план в обеих строках — один общий план «Португалия, Лиссабон + Порту» (ответ Ярослава 30.10). Совпадают ли его дни с 3 днями Lisbon и 4 днями Porto и открывается ли он без регистрации, я не проверял: страница из среды агента не открывается.
+4. В тексте нет «split the budget», «track who owes what», «invite your group», «agree in one evening». «Vote», «invite your friends», «chat with your group» с 30.10 можно (CLAUDE.md). Про редактирование нескольких людей одновременно (в реальном времени) у PlanVIA ничего не утверждаю: Ярослав сказал только, что владелец даёт право редактировать. Общий бюджет, деление расходов и личный кошелёк билетов не обещаю нигде.
+5. Все факты с источниками — в data/place-facts.csv (checked_at 2026-10-28, перепроверено фактчекером 2026-10-30). Данные Google Flights и Expedia (вылеты из США, бронирования Expedia.com) убраны из текста 30.10: аудитория только Европа. Европейского официального источника со сроками покупки авиабилетов и датой не нашёл (поиск 30.10: блоги продавцов и СМИ, не первоисточники), поэтому совет без цифр.
+6. Правки фактчекера от 2026-10-30 внесены, список — в разделе «Changelog 2026-10-30» в конце файла. Заглушки, которые ещё ждут, стоят в квадратных скобках.
+7. Правки по ответам Ярослава от 30.10 — в разделе «Changelog 2026-10-30 (2)» в конце файла.
 -->
 
 # AI trip planner for friends
 
-PlanVIA is an AI group trip planner: plan a trip with friends in minutes, with a day-by-day itinerary, a map and real places. It covers 100+ destinations and is free to start. One of you builds the plan or copies a ready-made one, then drops the link in the group chat, so all six of you are looking at the same Saturday.
+PlanVIA is an AI group trip planner: plan a trip with friends in minutes, with a day-by-day itinerary, a map and real places. It covers 100+ destinations and is free to start. One of you builds the plan or copies a ready-made one, then sends the link, so all six of you are looking at the same Saturday. A friend who opens the link can view the plan; the owner decides who can edit it and who joins the trip.
 
 **[Create a trip](/ai-planner)** · **[Browse ready-made trips](/plans)**
 
@@ -35,7 +37,7 @@ Settle four things in this order: a spending cap per person, two date options, a
 1. **Agree the cap first.** Each friend messages the organiser privately with the most they can spend, excluding flights. For example: €300 for 3 nights. The lowest number becomes the group's cap, and nobody has to say "that's too much for me" in front of seven people.
 2. **Offer two date options, not ten.** Post both in the chat with a 48-hour deadline. Anyone who can't make either says so now, not after the apartment is booked.
 3. **Shortlist three cities that fit the cap.** Three is enough to compare and few enough to decide. Ready-made plans in the PlanVIA catalogue make this quicker: open three, look at the days and the map, pick one.
-4. **One person builds the plan, and everyone gets the link.** In PlanVIA, the AI drafts the days with a map and real places, the organiser adjusts them and shares the plan as a link. Opinions go in the chat; changes go in the plan.
+4. **One person builds the plan, and the friends join it.** In PlanVIA, the AI drafts the days with a map and real places, and the organiser adjusts them and sends the plan as a link. By default a friend who opens the link can only view it. The owner can give a friend the right to edit and add them to the trip as a participant. Participants can vote, so a disagreement ends in a count and not in the loudest message. Opinions and votes go in the trip; changes go in the plan.
 
 Every group has one friend who replies "anything works for me". Get their cap anyway.
 
@@ -45,23 +47,22 @@ Agree how much each person can spend before anyone suggests where to go. Pick th
 
 ## What does an AI trip planner actually do for a group trip, and what doesn't it?
 
-PlanVIA's AI builds a day-by-day itinerary with a map and real places for 100+ destinations, and you can start from a ready-made plan instead of a blank page. It doesn't track who paid for what, and it doesn't replace your group chat: for money use Splitwise or Tricount, for talking keep WhatsApp.
+PlanVIA's AI builds a day-by-day itinerary with a map and real places for 100+ destinations, and you can start from a ready-made plan instead of a blank page. The owner can add friends to the trip as participants, who then chat, vote and keep tickets and bookings in one place. PlanVIA doesn't track who paid for what: for money use Splitwise or Tricount.
 
 **What you get in PlanVIA**
 
 - **A day-by-day itinerary** with a map and real places, built by AI for 100+ destinations.
 - **Ready-made plans:** open one from the catalogue, copy it and change it for your group.
-- **A link to share the plan** with friends.
+- **A trip with your friends.** Send the plan as a link: by default a friend can only view it. The owner can give a friend the right to edit and make them a participant. Participants get a shared trip chat, a shared place for tickets and bookings, and votes.
 - **Booking through partners:** flights, trains, car rental, eSIM and hotels. Some links are partner links: if you book through them, PlanVIA earns a commission at no extra cost to you. [ждёт утверждения]
-- **A ticket wallet** for the trip's bookings and tickets (PDFs and images), so the trip's tickets aren't scattered across inboxes.
-- **PlanVIA Plus:** unlimited plans, an AI concierge, PDF export and offline access.
+- **PlanVIA Plus:** €4.99 a month, €10.99 for 3 months or €29.99 a year. Unlimited plans, an AI concierge without limits, PDF export, offline access and priority generation. Source: [goplanvia.com/plus](https://goplanvia.com/plus). Checked: 30 Oct 2026.
 
 **What stays outside PlanVIA**
 
-- **Editing at the same time.** The person who builds the plan edits it; friends open the shared link to see it. [проверить вручную: как работает ссылка на план — только просмотр или можно копировать, нужен ли вход; ответ Ярослава, plan/questions.md п. 2] If three of you want to add places at once, Wanderlog has real-time co-editing (see the table below).
-- **Who paid for what.** Use Splitwise or Tricount.
-- **The conversation.** Keep it in your group chat.
-- **The decision itself.** AI can draft a Saturday in Lisbon. It can't decide for your group between Sintra and the beach. That's what the four steps above are for.
+- **Who paid for what.** PlanVIA has no shared budget and doesn't split costs. Use Splitwise or Tricount.
+- **Your main group chat.** Participants get a trip chat for questions about the plan. The jokes and the "where are you?" messages stay in the chat your group already uses.
+- **A private ticket wallet.** Tickets and bookings sit in the trip's shared place for its participants. There is no personal wallet for one person's tickets.
+- **The decision itself.** AI can draft a Saturday in Lisbon. It can't decide for your group between Sintra and the beach. That's what the four steps above, and the votes, are for.
 
 ## How much does a 3-day trip with friends in Europe cost per person?
 
@@ -73,27 +74,24 @@ For 4 friends sharing one apartment, 3 days in Europe cost [€… – €… pe
 
 | City | Days | Built for | Est. per person, excl. flights | Biggest cost item | Checked | Copy this itinerary |
 |---|---|---|---|---|---|---|
-| Lisbon | 3 | 4–6 friends | €… [проверить вручную: страница Lisbon, W2-05] | … [проверить вручную: страница Lisbon, W2-05] | — | [проверить вручную: ссылка на план Lisbon из каталога, plan/questions.md п. 6] |
-| Porto, Semana Santa | 4 | 4–6 friends | €… [проверить вручную: страница Porto, W2-05] | … [проверить вручную: страница Porto, W2-05] | — | [проверить вручную: ссылка на план Porto из каталога, plan/questions.md п. 6] |
+| Lisbon | 3 | 4–6 friends | €… [проверить вручную: страница Lisbon, W2-05] | … [проверить вручную: страница Lisbon, W2-05] | — | [Portugal: Lisbon + Porto](https://goplanvia.com/plan/70033101-2bc4-4b89-9354-d86b5b9079f0) |
+| Porto, Semana Santa | 4 | 4–6 friends | €… [проверить вручную: страница Porto, W2-05] | … [проверить вручную: страница Porto, W2-05] | — | [Portugal: Lisbon + Porto](https://goplanvia.com/plan/70033101-2bc4-4b89-9354-d86b5b9079f0) |
 
 Per person, for a group of 4 in one apartment. Prices come from each city page, where every line has its source.
+
+Both rows open the same ready-made plan, Portugal: Lisbon + Porto. Copy it and keep the city and the days you need.
 
 **One line you can already price: Pena Palace in Sintra.** The Essential visit (palace and park) is €20 per adult and the Full Tour is €45, so palace tickets for 4 friends cost €80–€180. Not everyone has to go inside: the park-only ticket is €12, and half the group can meet the others at the gate. Source: [Parques de Sintra, opening times and prices](https://www.parquesdesintra.pt/en/plan-your-visit/opening-times-and-prices/). Checked: 30 Oct 2026.
 
 ## How far ahead should a group of friends start planning?
 
-Start about 3 months before the trip. That leaves time to agree the cap and dates and still book in the cheaper fare window: for flights from the US to Europe, Google Flights puts the low-price range at 49 days or more before departure, with the lowest prices about 90 days out ([Google, 5 Oct 2026](https://blog.google/products-and-platforms/products/search/holiday-travel-trends-2026/)). Timed tickets, such as Pena Palace, are for a fixed date and time, so book them as soon as the flights are booked.
+Start as soon as the group has a spending cap and two date options, and book any timed ticket the day you book the flights. For Semana Santa (21–28 March 2027) that means this autumn. Pena Palace shows why: you enter the palace only at the date and time on your ticket, and an online ticket can be moved to another date and time within one year, but only before your slot.
 
-**Flights.** The big fare studies use US data, and they don't agree:
-
-- **Google Flights** (October 2026, five years of data, departures from the US): for trips to Europe, fares were in the low range from 49 days or more before departure and lowest about 90 days out; for spring-break trips in March and April, the lowest point was about 50 days out (low range 29–64 days). Source: [Google, 5 Oct 2026](https://blog.google/products-and-platforms/products/search/holiday-travel-trends-2026/).
-- **Expedia 2026 Air Hacks** (Expedia.com bookings, December 2024 to November 2025): international economy was cheapest 8–15 days out, and booking 31–45 days ahead saved about $190 compared with booking 6+ months ahead.
-
-For a group, don't chase the last-minute fare. You need four to eight seats on the same flight and everyone's money in before anyone books.
+**Flights.** Fares depend on your route and dates, so check the price calendar for yours instead of trusting a rule of thumb. For a group, don't chase the last-minute fare: you need four to six seats on the same flight and everyone's money in before anyone books.
 
 **Timed tickets.**
 
-- **Pena Palace, Sintra.** You enter the palace only at the date and time on your ticket. Arrive early and you wait; arrive late and you're turned away, with no refund. Allow about 30 minutes from the park entrance to the palace. Tickets bought online can be moved to another date and time within one year, but only before your slot; a missed slot can be neither moved nor refunded. Parques de Sintra doesn't publish how fast slots sell out, but its ticket shop marks them "Last tickets" and "Sold Out". For a group: one order, one slot for everyone, and the friend who is always late gets a meeting time 30 minutes earlier than the rest.
+- **Pena Palace, Sintra.** You enter the palace only at the date and time on your ticket. Arrive early and you wait; arrive late and you're turned away, with no refund. Allow about 30 minutes from the park entrance to the palace. Tickets bought online can be moved to another date and time within one year, but only before your slot; a missed slot can be neither moved nor refunded. Parques de Sintra doesn't publish how fast slots sell out, but its ticket shop marks them "Last tickets" and "Sold Out". For a group: one order, one slot for everyone, and the friend who is always late gets a meeting time 30 minutes earlier than the rest. Put the confirmation in the trip's shared place for tickets and bookings, so nobody has to ask the organiser for it at the gate.
 - **Belém Tower, Lisbon.** Visits are booked for a date and time ([Turismo de Lisboa](https://www.visitlisboa.com/pt-pt/locais/torre-de-belem)).
 
 **Dates that change plans in 2027**
@@ -105,22 +103,23 @@ For a group, don't chase the last-minute fare. You need four to eight seats on t
 
 ## Which apps should your group use for what?
 
-Use PlanVIA for the itinerary, the map and bookings, Splitwise or Tricount for shared costs, and your group chat for talking. If several of you want to edit the same plan at the same time, Wanderlog does that and PlanVIA doesn't.
+Use PlanVIA for the itinerary, the map, the votes and the bookings, and Splitwise or Tricount for shared costs. Friends can edit the same plan in PlanVIA and in Wanderlog: in PlanVIA the owner decides who can edit, and Wanderlog describes its editing as real-time.
 
 | Task | PlanVIA | Other tool | Why |
 |---|---|---|---|
-| Day-by-day itinerary | Yes: AI builds it for 100+ destinations, or copy a ready-made plan | Layla: an AI chat builds the plan "around your dates, budget and style" | PlanVIA if one of you builds the plan and shares it; Layla if you'd rather have its travel experts book the whole trip |
+| Day-by-day itinerary | Yes: AI builds it for 100+ destinations, or copy a ready-made plan | Layla: an AI chat builds the plan "around your dates, budget and style" | PlanVIA if one of you builds the plan and the others join it; Layla if you'd rather have its travel experts book the whole trip |
 | Map of real places | Yes, each day's places on a map | Wanderlog: places you add are pinned on a Google Maps-based map | Both work; use the one your organiser already knows |
 | Booking | Partner links: flights, trains, car rental, eSIM, hotels | Layla: its team books hotels, flights, transfers and activities | With PlanVIA you book each piece yourselves. With Layla someone books for you; its recommended minimum for tailor-made trips is €100 per person per night |
-| Editing together | One person edits; friends see the shared link | Wanderlog: "everyone can collaborate in real-time" | If several people add places at once, choose Wanderlog |
+| Editing together | The owner gives a friend the right to edit and adds them as a participant; by default the link is view-only | Wanderlog: "everyone can collaborate in real-time" | Both let friends edit. Wanderlog describes its editing as real-time, so if several of you will add places at the same moment, try that in both before you commit |
+| Voting | Yes: participants vote | — | A vote sits next to the plan it is about, so the result doesn't get lost in the chat scroll |
 | Splitting costs | No | Splitwise (free; Pro adds receipt scanning and currency conversion), Tricount (free, "no limit on tricounts or expenses"), Wanderlog (budget, expenses and bill splitting) | Money needs its own ledger: one app per trip, settled once at the end |
-| Group chat | No | WhatsApp or whatever your group already uses | Don't move the chat; send the plan link into it |
+| Group chat | Yes, for participants: a shared trip chat | WhatsApp or whatever your group already uses | Your group is already in a chat, so send the plan link into it first. Move the plan questions to the trip chat once everyone has joined |
 | Offline | With PlanVIA Plus | Wanderlog's sources disagree: the App Store listing says plans are stored offline, its help center lists offline download as a Pro feature ([help center](https://help.wanderlog.com/hc/en-us/sections/13302911983643--Pro-features), checked 30 Oct 2026) | Check this before a trip with patchy roaming |
-| Tickets and bookings | Ticket wallet: PDFs and images | — | All the trip's tickets in one place, not scattered across inboxes |
+| Tickets and bookings | A shared place for the trip's tickets and bookings, for participants | — | Everyone in the trip finds the bookings in one place, not in one person's inbox |
 
 ### When to choose another tool instead
 
-- **Choose Wanderlog** if your group wants to build the plan together, with three people adding places at the same time. Its app also lets you set a budget, track expenses and split bills with a group.
+- **Choose Wanderlog** if live co-editing matters most, with three people adding places at the same time: it describes its collaboration as real-time. Its app also lets you set a budget, track expenses and split bills with a group, which PlanVIA doesn't do.
 - **Choose Layla** if nobody wants to be the organiser and the budget fits its tailor-made trips: planning is free, and its travel experts book the trip.
 - **Add Splitwise or Tricount** whichever planner you use. PlanVIA doesn't track who paid for what.
 
@@ -132,11 +131,23 @@ Checked: 30 Oct 2026. Features and prices come from the products' own pages and 
 
 ### Is PlanVIA free?
 
-Yes, PlanVIA is free to start: the AI builds a day-by-day itinerary with a map and real places. PlanVIA Plus adds unlimited plans, an AI concierge, PDF export and offline access.
+Yes, PlanVIA is free to start: the AI builds a day-by-day itinerary with a map and real places. PlanVIA Plus adds unlimited plans, an AI concierge without limits, PDF export, offline access and priority generation.
+
+| PlanVIA Plus | Price |
+|---|---|
+| 1 month | €4.99 |
+| 3 months | €10.99 |
+| 1 year | €29.99 |
+
+Source: [goplanvia.com/plus](https://goplanvia.com/plus). Checked: 30 Oct 2026.
 
 ### How do I share my trip plan with friends?
 
-Share the plan as a link and send it to your group chat. Friends see the same plan; the person who built it makes the changes. [проверить вручную: нужен ли друзьям вход, чтобы открыть ссылку; ответ Ярослава, plan/questions.md п. 2]
+Send the plan as a link to your group chat. By default a friend who opens it can only view the plan. To let a friend change it, the owner gives them the right to edit and makes them a participant in the trip.
+
+### What can friends do once they join the trip?
+
+Participants have a shared trip chat, a shared place for tickets and bookings, and votes. The owner decides who joins and who can edit. Money stays outside PlanVIA: use Splitwise or Tricount.
 
 ### Which cities can I plan with PlanVIA?
 
@@ -144,7 +155,7 @@ More than 100 destinations. For each one, the AI builds a day-by-day itinerary w
 
 ### Can we book flights, trains and hotels in PlanVIA?
 
-Yes, through partners: flights, trains, car rental, eSIM and hotels. Some links are partner links: if you book through them, PlanVIA earns a commission at no extra cost to you. [ждёт утверждения] Before anyone books six train tickets on their own card, collect everyone's share. Once booked, put the PDFs in the trip's ticket wallet.
+Yes, through partners: flights, trains, car rental, eSIM and hotels. Some links are partner links: if you book through them, PlanVIA earns a commission at no extra cost to you. [ждёт утверждения] Before anyone books six train tickets on their own card, collect everyone's share. Once booked, put the tickets and confirmations in the trip's shared place for tickets and bookings.
 
 ### How do you split costs on a group trip?
 
@@ -156,7 +167,7 @@ Agree the dropout rule together with the cap, before anything is booked. For exa
 
 ---
 
-**Copy this itinerary:** 3 days in Lisbon with friends: [проверить вручную: ссылка на план Lisbon из каталога, который открывается без регистрации; plan/questions.md п. 6 и п. 2, W2-02]
+**Copy this itinerary:** [Portugal: Lisbon + Porto](https://goplanvia.com/plan/70033101-2bc4-4b89-9354-d86b5b9079f0), a ready-made plan in PlanVIA. Copy it, change the days for your group and send the link to your friends.
 
 Or **[create a trip](/ai-planner)** for your own city and share the plan with your group.
 
@@ -167,8 +178,7 @@ Checked: 30 Oct 2026.
 - Parques de Sintra: [opening times and prices](https://www.parquesdesintra.pt/en/plan-your-visit/opening-times-and-prices/), [Pena: entry with booked date and time](https://www.parquesdesintra.pt/en/plan-your-visit/new-tickets-pnp/), [Pena ticket conditions](https://bilheteira.parquesdesintra.pt/info/parque-e-palacio-da-pena/1202/en), [Pena ticket shop](https://bilheteira.parquesdesintra.pt/evento/parque-e-palacio-nacional-da-pena/263/en)
 - Turismo de Lisboa: [Belém Tower](https://www.visitlisboa.com/pt-pt/locais/torre-de-belem), [Lisbon Festivities](https://www.visitlisboa.com/en/events/lisbon-festivities-1), [St Anthony's night](https://www.visitlisboa.com/en/events/st-anthonys-night-12-13th-june)
 - Junta de Andalucía: [Decreto 84/2026, 2027 holiday calendar, BOJA no. 84](https://www.juntadeandalucia.es/eboja/2026/84/BOJA26-084-00002-5812-01_00337048.pdf)
-- Expedia: [2026 Air Hacks report](https://www.expedia.com/newsroom/expedia-2026-air-hacks/)
-- Google: [Wheels up: Trends and tips for 2026 holiday travel](https://blog.google/products-and-platforms/products/search/holiday-travel-trends-2026/), 5 Oct 2026
+- PlanVIA: [PlanVIA Plus, prices](https://goplanvia.com/plus)
 - Wanderlog: [App Store listing](https://apps.apple.com/us/app/wanderlog/id1476732439), [budget and expense splitting](https://wanderlog.com/travel-budget-expense-splitting-app)
 - Layla: [layla.ai](https://layla.ai/)
 - Splitwise: [App Store listing](https://apps.apple.com/us/app/splitwise/id458023433)
@@ -176,7 +186,7 @@ Checked: 30 Oct 2026.
 
 ---
 
-*Written by* [проверить вручную: имя автора и одна строка био; plan/questions.md п. 11]. *Updated: 30 October 2026.*
+*Written by* Ere Jotta [био: ждёт Ярослава]. *Updated: 30 October 2026.*
 
 ---
 

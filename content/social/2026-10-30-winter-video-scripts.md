@@ -146,7 +146,7 @@ Shorts, описание: `PlanVIA es un planificador de viajes en grupo con IA:
 | Пиротехника | ракеты и петарды (от категории F2) запрещены во всей Вене | та же страница | официальный, 30.10.2026 |
 | Каток у Ратуши | 31 дек. закрыт (сезон 13 нояб. 2026 – 6 янв. 2027) | https://www.wien.info/en/now-on/christmas/christmas-markets-342664?pp=1 («Vienna Ice World»: «Dec 31: closed»; на DE-странице «31.12. geschlossen») | официальный, 30.10.2026 |
 | Новогодний концерт | 1 янв. 2027, трансляция из Musikverein с 11:15 на экранах на Stephansplatz и Riesenradplatz | страница Silvester | официальный, 30.10.2026, только в титрах и подписи |
-| Правило 70/30 | именованное правило PlanVIA, как в постах LinkedIn от 30.10 | `content/social/2026-10-30-linkedin-posts.md` | в ролике применено к ночи: общая часть = полночь |
+| Правило 70/30 | именованное правило PlanVIA, как в постах LinkedIn от 30.10 | `content/social/2026-10-30-linkedin-posts.md` | в ролике применено к ночи: ужин и полночь вместе (70%), остальное по желанию (30%); правка по фактчеку 30.10 |
 
 Не используем: число локаций Silvesterpfad. Страница пишет «eight locations», но в карточках пять (Stephansplatz, Graben, Freyung, Rathausplatz, Prater). Цены и билеты галa-ужинов на wien.info не указаны, в ролике их нет. Данные страницы wien.gv.at «Vienna New Year's Eve Trail 2025/2026» относятся к прошлому сезону и не использовались.
 
@@ -162,7 +162,7 @@ Shorts, описание: `PlanVIA es un planificador de viajes en grupo con IA:
 |---|---|---|---|
 | 2–9 с | nye-02 | `SILVESTERPFAD`<br>`31 Dec 2026 · 14:00–02:00`<br>`free admission` | «The Silvesterpfad runs from 2 p.m. to 2 a.m. on December 31. Free admission.» |
 | 9–16 с | nye-03 | пузыри чата (без брендинга мессенджеров):<br>`"who's booking the apartment?"`<br>`"who pays first?"`<br>`"still checking prices"` | «The hard part is the group chat: who books, who pays first, who's still "checking prices".» |
-| 16–23 с | nye-04, на последние 2 с вставка nye-06 | `70/30`<br>`midnight together · the rest is your call`<br>мелко: `1 Jan, 11:15: New Year's Concert on big screens at Stephansplatz` | «Our 70/30 rule: midnight together, the rest is free choice. Entry is free, so budgets can differ.» |
+| 16–23 с | nye-04, на последние 2 с вставка nye-06 | `70/30`<br>`70% together: dinner + midnight · 30% your call`<br>мелко: `1 Jan, 11:15: New Year's Concert on big screens at Stephansplatz` | «Our 70/30 rule: dinner and midnight together, the rest of the night is your call. Entry is free, so budgets can differ.» |
 | 23–30 с | nye-05 | `Tell the group:`<br>`Ice rink at the Rathaus: closed 31 Dec`<br>`Rockets and firecrackers (F2+): banned in all of Vienna` | «Tell the group: the rink is closed on the 31st, and rockets and firecrackers (F2 up) are banned citywide.» |
 | 30–36 с | nye-07 или запись экрана | `Create a trip: goplanvia.com`<br>`PlanVIA: AI Group Trip Planner`<br>`Day-by-day plan · map · real places · share the plan` | «Put it all in one plan: PlanVIA, the AI group trip planner. Link in bio.» |
 
@@ -171,7 +171,7 @@ Shorts, описание: `PlanVIA es un planificador de viajes en grupo con IA:
 #### Подпись
 
 ```
-New Year's Eve in Vienna with friends: the Silvesterpfad street party runs 31 Dec, 14:00-02:00, with free admission. At midnight the Pummerin bell rings at St. Stephen's Cathedral and the Blue Danube plays. Keep the shared part simple (our 70/30 rule: midnight together, the rest is free choice) and agree who books the apartment before you pick the restaurant. Heads-up: the ice rink at the Rathaus is closed on 31 Dec, and rockets and firecrackers (category F2 and up) are banned in all of Vienna. 1 Jan: New Year's Concert on big screens from 11:15.
+New Year's Eve in Vienna with friends: the Silvesterpfad street party runs 31 Dec, 14:00-02:00, with free admission. At midnight the Pummerin bell rings at St. Stephen's Cathedral and the Blue Danube plays. Keep the shared part simple (our 70/30 rule: dinner and midnight together, the rest of the night is your call) and agree who books the apartment before you pick the restaurant. Heads-up: the ice rink at the Rathaus is closed on 31 Dec, and rockets and firecrackers (category F2 and up) are banned in all of Vienna. 1 Jan: New Year's Concert on big screens from 11:15.
 Put the plan in one place: PlanVIA, the AI group trip planner, with a day-by-day itinerary, a map and real places. Create a trip: goplanvia.com (link in bio).
 Source: wien.info. Checked 30 Oct 2026. Visuals are AI-generated.
 #NewYearsEve #Vienna #GroupTravel #TripWithFriends #Silvester
@@ -192,7 +192,7 @@ Shorts, описание: `PlanVIA is an AI group trip planner: plan a trip with
 |---|---|---|---|
 | 2–9 с | nye-02 | `SILVESTERPFAD`<br>`31 dic 2026 · 14:00–02:00`<br>`entrada gratuita` | «El Silvesterpfad se celebra el 31 de diciembre, de 14:00 a 2:00. Entrada gratuita.» |
 | 9–16 с | nye-03 | пузыри чата:<br>`"¿quién reserva el piso?"`<br>`"¿quién paga primero?"`<br>`"sigo mirando precios"` | «Lo difícil es el chat del grupo: quién reserva, quién paga primero, quién sigue "mirando precios".» |
-| 16–23 с | nye-04, вставка nye-06 | `70/30`<br>`medianoche juntos · lo demás, a tu aire`<br>мелко: `1 ene, 11:15: Concierto de Año Nuevo en pantallas en Stephansplatz` | «Regla 70/30: medianoche juntos, lo demás libre. Con entrada gratis, caben presupuestos distintos.» |
+| 16–23 с | nye-04, вставка nye-06 | `70/30`<br>`70% juntos: cena + medianoche · 30%, a tu aire`<br>мелко: `1 ene, 11:15: Concierto de Año Nuevo en pantallas en Stephansplatz` | «Regla 70/30: cena y medianoche juntos; el resto de la noche, a vuestro aire. Con entrada gratis, caben presupuestos distintos.» |
 | 23–30 с | nye-05 | `Avisad al grupo:`<br>`Pista de hielo del Rathaus: cerrada el 31 dic`<br>`Cohetes y petardos (F2 o más): prohibidos en toda Viena` | «Avisad: la pista de hielo cierra el 31 y los cohetes (F2 o más) están prohibidos en toda la ciudad.» |
 | 30–36 с | nye-07 или запись экрана | `Crea un viaje: goplanvia.com`<br>`PlanVIA: AI Group Trip Planner`<br>`Plan día a día · mapa · lugares reales · comparte el plan` | «Todo en un plan: PlanVIA, el planificador de viajes en grupo con IA. Enlace en la bio.» |
 
@@ -201,7 +201,7 @@ Shorts, описание: `PlanVIA is an AI group trip planner: plan a trip with
 #### Подпись
 
 ```
-Nochevieja en Viena con amigos: el Silvesterpfad, la fiesta callejera, es el 31 de dic de 14:00 a 2:00 y la entrada es gratuita. A medianoche suena la campana Pummerin en la catedral de San Esteban y se baila el Danubio azul. Mantened sencilla la parte común (nuestra regla 70/30: la medianoche juntos, lo demás a elección) y decidid quién reserva el piso antes de elegir restaurante. Ojo: la pista de hielo del Rathaus cierra el 31 de dic, y los cohetes y petardos (categoría F2 o superior) están prohibidos en toda Viena. El 1 de ene: Concierto de Año Nuevo en pantallas grandes desde las 11:15.
+Nochevieja en Viena con amigos: el Silvesterpfad, la fiesta callejera, es el 31 de dic de 14:00 a 2:00 y la entrada es gratuita. A medianoche suena la campana Pummerin en la catedral de San Esteban y se baila el Danubio azul. Mantened sencilla la parte común (nuestra regla 70/30: cena y medianoche juntos; el resto de la noche, a vuestro aire) y decidid quién reserva el piso antes de elegir restaurante. Ojo: la pista de hielo del Rathaus cierra el 31 de dic, y los cohetes y petardos (categoría F2 o superior) están prohibidos en toda Viena. El 1 de ene: Concierto de Año Nuevo en pantallas grandes desde las 11:15.
 Todo en un plan: PlanVIA, el planificador de viajes en grupo con IA, con itinerario día a día, mapa y lugares reales. Crea un viaje: goplanvia.com (enlace en la bio).
 Fuente: wien.info. Revisado: 30 oct 2026. Imágenes generadas con IA.
 #Nochevieja #Viena #ViajesEnGrupo #ViajarConAmigos #FinDeAño
