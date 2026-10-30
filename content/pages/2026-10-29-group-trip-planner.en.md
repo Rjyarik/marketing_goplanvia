@@ -66,7 +66,7 @@ PlanVIA's AI builds a day-by-day itinerary with a map and real places for 100+ d
 
 ## How much does a 3-day trip with friends in Europe cost per person?
 
-For 4 friends sharing one apartment, 3 days in Europe cost [€… – €… per person, excluding flights — проверить вручную: вилка из проверенных страниц Lisbon и Porto (W2-05) и их планов в каталоге, plan/questions.md п. 6].
+For 4 friends sharing one apartment, 3 days in Europe cost [€… – €… per person, excluding flights — проверить вручную: вилка из проверенных страниц Lisbon и Porto, W2-05].
 
 ### Ready-made trips with friends
 
@@ -111,7 +111,7 @@ Use PlanVIA for the itinerary, the map, the votes and the bookings, and Splitwis
 | Map of real places | Yes, each day's places on a map | Wanderlog: places you add are pinned on a Google Maps-based map | Both work; use the one your organiser already knows |
 | Booking | Partner links: flights, trains, car rental, eSIM, hotels | Layla: its team books hotels, flights, transfers and activities | With PlanVIA you book each piece yourselves. With Layla someone books for you; its recommended minimum for tailor-made trips is €100 per person per night |
 | Editing together | The owner gives a friend the right to edit and adds them as a participant; by default the link is view-only | Wanderlog: "everyone can collaborate in real-time" | Both let friends edit. Wanderlog describes its editing as real-time, so if several of you will add places at the same moment, try that in both before you commit |
-| Voting | Yes: participants vote | — | A vote sits next to the plan it is about, so the result doesn't get lost in the chat scroll |
+| Voting | Yes: participants vote | — | A count ends a disagreement; a long chat thread rarely does |
 | Splitting costs | No | Splitwise (free; Pro adds receipt scanning and currency conversion), Tricount (free, "no limit on tricounts or expenses"), Wanderlog (budget, expenses and bill splitting) | Money needs its own ledger: one app per trip, settled once at the end |
 | Group chat | Yes, for participants: a shared trip chat | WhatsApp or whatever your group already uses | Your group is already in a chat, so send the plan link into it first. Move the plan questions to the trip chat once everyone has joined |
 | Offline | With PlanVIA Plus | Wanderlog's sources disagree: the App Store listing says plans are stored offline, its help center lists offline download as a Pro feature ([help center](https://help.wanderlog.com/hc/en-us/sections/13302911983643--Pro-features), checked 30 Oct 2026) | Check this before a trip with patchy roaming |
