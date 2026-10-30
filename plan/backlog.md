@@ -42,7 +42,7 @@
 |---|---|---|---|---|
 | W2-01 | Совместная поездка работает на сайте — рубеж | developer | todo | Без неё креаторы не говорят «с друзьями» |
 | W2-02 | Открытая ссылка на план с превью и «Скопировать поездку» без регистрации | developer | todo | Превью каталожных планов уже есть (W0-09) |
-| W2-03 | Страницы P1 EN+ES: /group-trip-planner (хаб), /how-it-works, /faq, /about, /pricing, /travel-alerts | seo-researcher → writer → fact-checker | doing | Бриф хаба готов. Адрес хаба — /group-trip-planner: /plan/... занят маршрутом /plan/:tripId |
+| W2-03 | Страницы P1 EN+ES: /group-trip-planner (хаб), /how-it-works, /faq, /about, /pricing, /travel-alerts | seo-researcher → writer → fact-checker | doing | Хаб: фактчек 30.10 — не пропущен (40 pass / 10 fix / 9 cannot verify), отчёт reports/fact-checks/2026-10-30-group-trip-planner-hub.md; автор вносит правки. Брифы /how-it-works и /faq — в работе. Адрес хаба — /group-trip-planner |
 | W2-04 | Цены и часы мест для 20 городов | writer + fact-checker | todo | |
 | W2-05 | 10 страниц городов и 10 маршрутов «3 days in X with friends» (под весну–лето 2027) | writer | doing | Брифы: Лиссабон (EN), Semana Santa en Oporto (ES) |
 | W2-06 | Письма 20 креаторам | outreach | todo | Каждое — после «да» Ярослава |
