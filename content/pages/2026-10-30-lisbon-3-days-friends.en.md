@@ -38,7 +38,7 @@ backlog: W2-05
 
 # 3 days in Lisbon with friends
 
-Three days in Lisbon cost about €295 per person for 4 or 6 friends before the apartment and flights, and the apartment is the only line that changes with group size. Of Lisbon's five historic lifts, only the Graça funicular is running (carris.pt, 30 Oct 2026), so this route goes up by funicular and bus and comes down on foot. Day 3 splits the group between Sintra and the beach, and everyone meets again for dinner. Copy the whole route as a plan in PlanVIA, the AI group trip planner, and change it for your group.
+Three days in Lisbon cost about €295 per person for 4 or 6 friends before the apartment and flights, and the apartment is the only line that changes with group size. Of Lisbon's five historic lifts, only the Graça funicular is in regular service (carris.pt, 30 Oct 2026), so this route goes up by funicular and bus and comes down on foot. Day 3 splits the group between Sintra and the beach, and everyone meets again for dinner. Copy the whole route as a plan in PlanVIA, the AI group trip planner, and change it for your group.
 
 **Copy this itinerary:** <план «Lisbon, 3 days» из каталога: уточнить у координатора> · **[Create a trip](<ссылка на создание поездки: уточнить у координатора>)**
 
@@ -61,7 +61,7 @@ About €295 per person, excluding flights and the apartment, for 3 nights and 3
 
 - **Group size changes only the apartment.** Every other line is per person and the same for 4 or 6. If one of you is 24 or younger, Jerónimos and Belém Tower are half price for ages 13 to 24.
 - **What the 24h ticket covers.** The ticket is called "Bilhete 24h CARRIS/Metro". Whether it is valid on trams and on the Graça funicular: [проверить вручную]. The table assumes it is not valid on the funicular and adds the €4.30 fare.
-- **Weekday lunches.** The €18.50 set lunch (main course, drinks and coffee) runs Monday to Friday, excluding public holidays, for groups of up to 8. On weekends budget the same by hand.
+- **Weekday lunches.** The €18.50 set lunch (main course, drinks and coffee) runs Monday to Friday, excluding public holidays, for groups of up to 8. It is not offered on weekends, so the table keeps the same amount as an estimate for those days.
 - **Airport to the apartment.** The Red line starts at Aeroporto (station open 06:30–01:00, trains every 6 to 10 minutes on weekdays). For Baixa-Chiado change at Alameda to the Green line. A 24h ticket validated at the airport covers the ride; a single ticket is €1.90. Since 15 October 2026 taxis from the airport have fixed fares to central parishes such as Santa Maria Maior and Misericórdia: €19 by day, €23 at night, on weekends and on holidays [проверить вручную: reported by the press, not by the city]. A standard cab usually seats four, so 4 friends pay about €4.75 each in one cab and 6 friends about €6.33 each in two. Ride-hail apps are not on the fixed fare.
 - **Metro works.** For the future Circular line, the Green line closed between Rossio and Cais do Sodré on 2–5 May 2026 and Cais do Sodré station closed on 8–26 August 2026. Check [metrolisboa.pt](https://www.metrolisboa.pt/) for your dates.
 - **Lisboa Card.** The 72h card costs €62 (24h €31, 48h €51), and these prices are valid until 31 March 2027, so a May 2027 trip may see a new price. Pay as you go, the castle, Jerónimos, Belém Tower and three 24h tickets come to €71.75, so the card is about €10 cheaper if you do all three sights. Jerónimos and Belém Tower still need a booked time slot, and Pena Palace is discounted, not free. Whether the card includes the Sintra and Cascais trains: [проверить вручную]. Source: [Lisboa Card prices](https://www.lisboacard.org/prices/), [Turismo de Lisboa shop](https://shop.visitlisboa.com/collections/tourist-cards/products/lisboa-card).
@@ -84,7 +84,7 @@ Sources: [CP, Cascais line timetable](https://www.cp.pt/info/documents/d/cp/casc
 
 ## Which Lisbon lifts and funiculars are running in 2027?
 
-One of five: the Graça funicular, running daily 07:00–21:00 since 15 May 2026. Santa Justa, Glória, Bica and Lavra are all listed as "Encerrado temporariamente" (temporarily closed) on carris.pt with no reopening date, and a new Glória is reported for the first half of 2029 (RFM, 2 Sep 2026). Plan 2027 without them and check carris.pt in the week you book.
+One of five: the Graça funicular, in regular service daily 07:00–21:00 since 15 May 2026. Santa Justa, Glória, Bica and Lavra are all listed as "Encerrado temporariamente" (temporarily closed) on carris.pt with no reopening date, and a new Glória is reported for the first half of 2029 (RFM, 2 Sep 2026). Plan 2027 without them and check carris.pt in the week you book.
 
 | Lift | Status on carris.pt, 30 Oct 2026 | What to use instead |
 |---|---|---|
@@ -105,7 +105,7 @@ Sources: [Carris, funiculars](https://www.carris.pt/descubra/frota/funciulares/)
 Up by funicular, down on foot. The castle is €17 per adult (€8.50 for ages 13–25), open 09:00–21:00 from March to October with last entry at 20:30, and closed on 1 May.
 
 1. **Morning: Mouraria to Graça.** Take the Graça funicular from Rua dos Lagares up to Largo da Graça (07:00–21:00, 14 people per trip). If it is shut, take tram 28E from Martim Moniz. The Graça viewpoint is the first stop.
-2. **Midday: Castelo de São Jorge.** Buy tickets online on the castle's own platform, [CasteloSaoJorge.bol.pt](https://CasteloSaoJorge.bol.pt/), or at the ticket office. If you would rather walk up from Baixa, the castle's site lists two routes with municipal lifts: the Castelo lift (Rua dos Fanqueiros 176 to Rua da Madalena) and the Chão do Loureiro car-park lift.
+2. **Midday: Castelo de São Jorge.** Buy tickets online on the castle's own platform, [CasteloSaoJorge.bol.pt](https://CasteloSaoJorge.bol.pt/), or at the ticket office. If you would rather walk up from Baixa, the castle's site lists two routes with lifts: the Castelo lift (Rua dos Fanqueiros 176 to Rua da Madalena) and the Chão do Loureiro car-park lift.
 3. **Afternoon: down through Alfama to Baixa.** All downhill, so nobody needs a lift. Walking time from Graça to the castle to Baixa: [проверить вручную: по карте PlanVIA или OpenStreetMap, © OpenStreetMap].
 4. **Evening: Bairro Alto or Cais do Sodré.** Pick the area closest to where you sleep, so the friend who leaves at 23:00 can walk home. For a fado dinner, [Adega Machado](https://www.adegamachado.pt/en/gastronomia/) in Bairro Alto serves a €72 tasting menu (wine pairing +€30), with the kitchen open from 19:00 and live fado from 20:30. It is open daily, tables are few and evenings fill up well in advance, and group rules are not published: write or call before you tell the group chat it's booked.
 
