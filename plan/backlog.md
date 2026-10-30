@@ -31,7 +31,7 @@
 | W1-04 | Базовый AI-замер, 30 промптов EN/ES | analyst | blocked | Подключённый n8n — не тот (нет OpenRouter); ждём коннектор к n8n на VPS |
 | W1-05 | Настроить BabyLoveGrowth по разделу 9 «Стратегии» | Ярослав | todo | |
 | W1-06 | Профили в каталогах AI-инструментов: There's An AI For That, Futurepedia, AlternativeTo, Product Hunt | outreach | review | Тексты: content/outreach/2026-10-29-directory-profiles.md. Бесплатно — PH и AlternativeTo; TAAFT от $49, Futurepedia $197–497, Toolify $99 — решение Ярослава |
-| W1-07 | 50 микрокреаторов ES/EN | outreach | doing | |
+| W1-07 | 50 микрокреаторов ES/EN | outreach | doing | 25 из 50 в data/creators.csv, проверен по-настоящему 1: Instagram/TikTok/YouTube из среды агентов не открываются. Топ-5 к первым письмам — content/outreach/2026-10-30-creators-report.md |
 | W1-08 | 2 аккаунта Reddit отвечают без ссылок | Ярослав | todo | Первый дайджест черновиков — 29.10 |
 | W1-09 | Цели аутрича: подборки «AI trip planner», «Wanderlog alternatives» | outreach | review | 25 целей в data/outreach-targets.csv; групповым подборкам писать после запуска совместных поездок |
 | W1-10 | Первые записи /travel-alerts | alerts-monitor → fact-checker | review | 9 записей с правками фактчекера в content/alerts (+ общий день забастовок во Франции 5.11). Публиковать некуда, пока нет страницы /travel-alerts (W2-03) |
